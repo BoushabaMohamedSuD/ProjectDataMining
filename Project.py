@@ -1,3 +1,7 @@
+
+######
+# Prétraitement de données
+#####
 # importing libraries
 
 import numpy as np
@@ -39,10 +43,24 @@ lenghtDataset=len(dataset)
 while(counter<lenghtDataset):
     if(datasetMissingDataSalary[counter]==True):
         dataset=dataset.drop([counter])
-        print(counter)
+        #print(counter)
     counter=counter+1   
      
-
+    
 datasetMissingDataSalary= dataset['salary'].isnull() 
+
+
+#Change data type of columns salary to float
+
+dataset['salary']=pd.to_numeric(dataset['salary'])
+print('#######Check column data types##########')
+datasetTypeSeries=dataset.dtypes
+print(datasetTypeSeries)
+
+
+######
+# Description
+#####
+
 
 
