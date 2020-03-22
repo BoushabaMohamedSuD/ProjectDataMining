@@ -8,4 +8,12 @@ import pandas as pd
 
 dataset=pd.read_csv('employee_retention_data.csv')
 #df=pd.DataFrame(dataset)
+
+
+#changing the columns dataset on lower case
+
 dataset.columns= map(str.lower, dataset.columns)
+
+#Check column data types
+datasetTypeSeries=dataset.dtypes
+print(datasetTypeSeries)
