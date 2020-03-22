@@ -72,16 +72,27 @@ nbrColumns=dataset.shape[1]
 
 print('########Mean#########')
 MeanDataSet=dataset.mean()      
-print(dataset.mean())
+#print(dataset.mean())
 print('########Max#########')
 MaxDataSet=dataset.max()     
-print(dataset.max())
+#print(dataset.max())
 print('########Count#########')
 CountDataSet=dataset.count()     
-print(dataset.count())
+#print(dataset.count())
 print('########Std#########')
 StdDataSet=dataset.std()     
-print(dataset.std())
+#print(dataset.std())
+print('########Min#########')
+MinDataSet=dataset.min()     
+#print(dataset.std())
+
+print(dataset.describe())
+DatasetDescription=dataset.describe()
+
+
+
+
+
 
 
 
