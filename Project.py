@@ -62,5 +62,12 @@ print(datasetTypeSeries)
 # Description
 #####
 
+#nbr rows and columns 
+print('#######Number rows columns##########')
+print(dataset.shape)
+nbrRows=dataset.shape[0]
+nbrColumns=dataset.shape[1]
+
+
 
 
