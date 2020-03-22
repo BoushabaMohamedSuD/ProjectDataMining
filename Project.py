@@ -26,4 +26,23 @@ print('#######Check column data types##########')
 datasetTypeSeries=dataset.dtypes
 print(datasetTypeSeries)
 
+# delteing missing values of salary column
+
+datasetMissingData= dataset.isnull() 
+datasetMissingDataSalary= dataset['salary'].isnull() 
+print("#########Mising values of dataset########");
+#print(dataset['salary'].isnull() )
+#print(dataset['salary'][100])
+print("dataset lenght :",len(dataset));
+counter=0
+lenghtDataset=len(dataset)
+while(counter<lenghtDataset):
+    if(datasetMissingDataSalary[counter]==True):
+        dataset=dataset.drop([counter])
+        print(counter)
+    counter=counter+1   
+     
+
+datasetMissingDataSalary= dataset['salary'].isnull() 
+
 
