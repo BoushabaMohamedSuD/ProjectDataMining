@@ -174,3 +174,52 @@ while(counter<len(data)):
 
 EstimationEachDay=pd.DataFrame(data, columns = ['company_id', 'count\Day'])
 
+# count new hire each day
+
+
+##initialinitializing dataframe handler
+data=[]
+item=[0,0,0]
+
+#sort the dataset to make the calcule more easy
+
+dataset.sort_values(by=['join_date'], inplace=True, ascending=True)
+
+print('##### test #######')
+if(dataset['join_date'][21049]==dataset['join_date'][17260]):
+    print('ok')
+else :
+    print('not ok')
+
+print('##### end test #######')
+
+counter=0
+lenghtDataset=len(dataset)
+value=1
+
+while(counter<lenghtDataset):
+    if(counter==0):
+        print('do nothing')
+    else:    
+        if(dataset['join_date'][counter]==dataset['join_date'][counter-1]):
+            value=value+1
+        else :
+            company_id=dataset['company_id'][counter]
+            join_date=dataset['join_date'][counter]
+            data.append([company_id,join_date,value])
+            value=1
+            if(counter==lenghtDataset-1):
+                 company_id=dataset['company_id'][counter]
+                 join_date=dataset['join_date'][counter]
+                 data.append([company_id,join_date,value])
+                 value=1
+                 
+    counter=counter+1
+
+
+NewHire=pd.DataFrame(data, 
+           columns = ['company_id', 'join_date',', count_new_hire'])
+
+datasetTest=pd.read_csv('employee_retention_data.csv')
+ 
+
