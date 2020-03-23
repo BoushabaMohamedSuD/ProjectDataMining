@@ -179,7 +179,7 @@ EstimationEachDay=pd.DataFrame(data, columns = ['company_id', 'count\Day'])
 
 ##initialinitializing dataframe handler
 data=[]
-item=[0,0,0]
+
 
 #sort the dataset to make the calcule more easy
 
@@ -223,4 +223,51 @@ NewHire=pd.DataFrame(data,
 
 
  
+
+
+
+
+
+# count churn each day
+
+
+##initialinitializing dataframe handler
+data=[]
+
+
+#sort the dataset to make the calcule more easy
+
+dataset.sort_values(by=['quit_date'], inplace=True, ascending=True)
+dataset =dataset.reset_index(drop=True)
+
+
+
+counter=0
+lenghtDataset=len(dataset)
+value=1
+
+while(counter<lenghtDataset):
+    if(counter==0):
+        print('do nothing')
+    else:    
+        if(dataset['quit_date'][counter]==dataset['quit_date'][counter-1]):
+            value=value+1
+        else :
+            company_id=dataset['company_id'][counter]
+            join_date=dataset['quit_date'][counter]
+            data.append([company_id,join_date,value])
+            value=1
+            if(counter==lenghtDataset-1):
+                 company_id=dataset['company_id'][counter]
+                 join_date=dataset['quit_date'][counter]
+                 data.append([company_id,join_date,value])
+                 value=1
+                 
+    counter=counter+1
+
+
+churn=pd.DataFrame(data, 
+           columns = ['company_id', 'quit_date',', count_churn'])
+
+
 
