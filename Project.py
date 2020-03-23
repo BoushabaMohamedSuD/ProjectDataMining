@@ -91,7 +91,7 @@ MinDataSet=dataset.min()
 print(dataset.describe())
 DatasetDescription=dataset.describe()
 
-# estimate of the workforce, for each company, each day
+# estimate of the workforce, for each company
 
 time1=dataset['join_date'][0]
 time2=dataset['join_date'][1]
@@ -163,5 +163,14 @@ print(data)
 
 Estimation=pd.DataFrame(data, columns = ['company_id', 'count'])
 
+# estimate of the workforce, for each company, each day
 
+counter=0
+print((timeEnd-timeStart).astype("float"))
+AverageTime=(timeEnd-timeStart).astype("float")
+while(counter<len(data)):
+    data[counter][1]=data[counter][1]/AverageTime
+    counter=counter+1
+
+EstimationEachDay=pd.DataFrame(data, columns = ['company_id', 'count\Day'])
 
