@@ -184,6 +184,7 @@ item=[0,0,0]
 #sort the dataset to make the calcule more easy
 
 dataset.sort_values(by=['join_date'], inplace=True, ascending=True)
+dataset =dataset.reset_index(drop=True)
 
 print('##### test #######')
 if(dataset['join_date'][21049]==dataset['join_date'][17260]):
@@ -220,6 +221,6 @@ while(counter<lenghtDataset):
 NewHire=pd.DataFrame(data, 
            columns = ['company_id', 'join_date',', count_new_hire'])
 
-datasetTest=pd.read_csv('employee_retention_data.csv')
+
  
 
