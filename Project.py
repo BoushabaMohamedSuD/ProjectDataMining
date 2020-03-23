@@ -8,6 +8,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
+import datetime as dtime
+
 #reading dataset
 
 dataset=pd.read_csv('employee_retention_data.csv')
@@ -89,11 +91,77 @@ MinDataSet=dataset.min()
 print(dataset.describe())
 DatasetDescription=dataset.describe()
 
+# estimate of the workforce, for each company, each day
+
+time1=dataset['join_date'][0]
+time2=dataset['join_date'][1]
+timeStart=np.datetime64('2011-01-24')
+timeEnd=np.datetime64('2015-12-13')
+if(timeEnd<timeStart):
+    print('not ok')
+else :
+    print('it is ok')
+    
+counter=0   
+
+print(timeEnd-timeStart)
+lenghtDataset=len(dataset)
+print(counter)
+##initialinitializing dataframe handler
+data = [[1, 0]] 
+counter=1;
+IdRange=MaxDataSet['company_id']
+while(counter<IdRange):
+    data.append([counter,0])
+    counter=counter+1
+#print(data)
+
+print(dataset['quit_date'][26])
 
 
+if(dataset.isnull()['quit_date'][26]):
+    print('ok')
+else: 
+    print('not ok')
+ 
 
+# delteing missing values of salary column
 
+datasetMissingDataJoinDate= dataset['join_date'].isnull() 
+print("#########Mising values of dataset join time#########")
+#print(dataset['salary'].isnull() )
+#print(dataset['salary'][100])
+counter=0
+lenghtDataset=len(dataset)
+while(counter<lenghtDataset):
+    if(datasetMissingDataJoinDate[counter]==True):
+        dataset=dataset.drop([counter])
+        #print(counter)
+    counter=counter+1   
+         
+#calculing    
+lenghtDataset=len(dataset)
+counter=0
+while(counter<lenghtDataset):
+  
+    if(dataset['join_date'][counter]<=timeEnd and 
+       dataset['join_date'][counter]>=timeStart):
+        index=dataset['company_id'][counter]-1
+        data[index][1]=data[index][1]+1
+    if(dataset['quit_date'][counter]<=timeEnd and
+       dataset['quit_date'][counter]>=timeStart): 
+        index=dataset['company_id'][counter]-1
+        data[index][1]=data[index][1]-1
+    counter=counter+1
+    #print(counter)
+    
+    
+print('end loop')    
+print(data)
 
+#creating data frame
+
+Estimation=pd.DataFrame(data, columns = ['company_id', 'count'])
 
 
 
