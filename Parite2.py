@@ -365,6 +365,10 @@ NewHire=pd.DataFrame(data,
            columns = ['company_id', 'join_date',', count_new_hire'])
                             
 
+
+
+
+
 # count churn each day
 
 
@@ -514,9 +518,11 @@ while(counter1<lenghtDataset):
             
 print('ok')
 Churn=pd.DataFrame(data, 
-           columns = ['company_id', 'quit_date',', count_new_hire'])
-                            
+           columns = ['company_id', 'quit_date',', count_chrun'])
+ 
 
+                           
+#boxplot churn/salary
 
 
 
