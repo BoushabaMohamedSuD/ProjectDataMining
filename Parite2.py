@@ -526,6 +526,10 @@ Churn=pd.DataFrame(data,
 
 
 
+dfPlot=dataset[['quit_date','salary']]
+dfPlot.plot.box(dfPlot,y="salary")
+
+
 
 
 
