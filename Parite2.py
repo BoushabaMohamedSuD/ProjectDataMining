@@ -272,11 +272,12 @@ while(counter1<lenghtDataset):
                         dataCondition[counter][1]=True
                         counter=counter+1
                         
-                   # print('break 1')    
+                    print('break 1')    
                     break
             else:
                 if(key):
                     companyId=dataset['company_id'][counter2]
+                    #print(companyId)
                     if(dataCondition[companyId-1][1]): 
                         capturINDEX=counter2
                         key=False
@@ -297,7 +298,7 @@ while(counter1<lenghtDataset):
                             key=True
                             value=1
                         
-                           # print('break 2')
+                            print('break 2')
                             break
                         
         else :
@@ -311,13 +312,20 @@ while(counter1<lenghtDataset):
                 key=True
                 value=1
                 counter1=counter2
+                counter2=counter1+1   
                 
+                #############################
+                #it cause me 6 houres to fix it
+                #by adding just this line to code
+                
+                capturINDEX=counter1
+                ##############################
                 counter=0
                 while(counter<MaxDataSet['company_id']):
                     dataCondition[counter][1]=True
                     counter=counter+1
                 
-               # print('break 3')
+                #print('break3')
                 break
             else:
                 companyId=dataset['company_id'][counter1]
@@ -331,12 +339,14 @@ while(counter1<lenghtDataset):
                 # jump to the other case   
              
                 counter1=capturINDEX
+                counter2=counter1+1
                 key=True
                 value=1
-               # print('break 4')
+                #print('break 4')
                 break
-                                
+        #print(counter1)                        
         counter2=counter2+1
+        #print(counter2)
        # print(counter2)
         
     # add if the last one is unique
