@@ -531,6 +531,12 @@ dfPlot.plot.box(dfPlot,y="salary")
 
 
 
+#parite 3 
+#export csv files
+
+dataset.to_csv(r'C:\Users\mohamed\Desktop\MINIPROJET\DataMining\export\datasetClean.csv',index = False)
+
+
 
 
 
