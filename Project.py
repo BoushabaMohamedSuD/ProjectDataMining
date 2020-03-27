@@ -135,9 +135,9 @@ lenghtDataset=len(dataset)
 print(counter)
 ##initialinitializing dataframe handler
 data = [[1, 0]] 
-counter=1;
+counter=2;
 IdRange=MaxDataSet['company_id']
-while(counter<IdRange):
+while(counter<=IdRange):
     data.append([counter,0])
     counter=counter+1
 #print(data)
@@ -165,7 +165,8 @@ while(counter<lenghtDataset):
         #print(counter)
     counter=counter+1   
          
-#calculing    
+#calculing 
+datasetTestttttt=dataset   
 lenghtDataset=len(dataset)
 counter=0
 while(counter<lenghtDataset):
