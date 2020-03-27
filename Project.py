@@ -10,6 +10,18 @@ import pandas as pd
 
 import datetime as dtime
 
+
+
+
+
+from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import train_test_split
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.metrics import confusion_matrix
+from sklearn.preprocessing import StandardScaler
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.linear_model import LinearRegression
+
 #reading dataset
 
 dataset=pd.read_csv('employee_retention_data.csv')
@@ -58,6 +70,20 @@ dataset['salary']=pd.to_numeric(dataset['salary'])
 print('#######Check column data types##########')
 datasetTypeSeries=dataset.dtypes
 print(datasetTypeSeries)
+
+
+
+
+
+
+
+
+###########################################################################"
+##########################################################################
+#     
+
+
+
 
 
 ######
@@ -125,7 +151,7 @@ else:
     print('not ok')
  
 
-# delteing missing values of salary column
+# delteing missing values of join_date column
 
 datasetMissingDataJoinDate= dataset['join_date'].isnull() 
 print("#########Mising values of dataset join time#########")
@@ -174,55 +200,182 @@ while(counter<len(data)):
 
 EstimationEachDay=pd.DataFrame(data, columns = ['company_id', 'count\Day'])
 
+
+
+
+
 # count new hire each day
+
+
 
 
 ##initialinitializing dataframe handler
 data=[]
+dataCondition=[]
+value=1
+capturINDEX=0
+counter1=0
+counter2=1
+key=True
+
+
+
+#initializing dataCondition
+
+counter=1
+while(counter<=MaxDataSet['company_id']):
+    dataCondition.append([counter,True])
+    counter=counter+1
+print(dataCondition)
+
+
+# delteing missing values of quit_date   column
+# join date already did
+
+datasetMissingDataQuiteDate= dataset['quit_date'].isnull() 
+print("#########Mising values of dataset quit_date  time#########")
+counter=0
+lenghtDataset=len(dataset)
+while(counter<lenghtDataset):
+    if(datasetMissingDataQuiteDate[counter]==True):
+        dataset=dataset.drop([counter])
+        
+    counter=counter+1   
+         
+
+print('ok')
+
+
 
 
 #sort the dataset to make the calcule more easy
-
+print("######### sort the dataset to make the calcule more easy #########")
 dataset.sort_values(by=['join_date'], inplace=True, ascending=True)
 dataset =dataset.reset_index(drop=True)
 
-print('##### test #######')
-if(dataset['join_date'][21049]==dataset['join_date'][17260]):
-    print('ok')
-else :
-    print('not ok')
 
-print('##### end test #######')
+if(dataset['join_date'][0]==dataset['join_date'][1]):
+    print('ok yuuup')
 
-counter=0
+# Make Operations
+
+print('make operation')
 lenghtDataset=len(dataset)
-value=1
 
-while(counter<lenghtDataset):
-    if(counter==0):
-        print('do nothing')
-    else:    
-        if(dataset['join_date'][counter]==dataset['join_date'][counter-1]):
-            value=value+1
+while(counter1<lenghtDataset):
+    #print(counter1)
+    #counter2=counter1+1
+    while (counter2<lenghtDataset):
+        if(dataset['join_date'][counter1]==dataset['join_date'][counter2]):
+            if(dataset['company_id'][counter1]==dataset['company_id'][counter2]):
+                value=value+1
+                if(counter2==lenghtDataset-1):
+                    companyId=dataset['company_id'][counter1]
+                    joinDATE=dataset['join_date'][counter1]
+                    data.append([companyId,joinDATE,value])
+                    # RESET EVRYTHING !!!!!
+                
+                    key=True
+                    value=1
+                    counter1=counter2+1
+                
+                    counter=0
+                    while(counter<MaxDataSet['company_id']):
+                        dataCondition[counter][1]=True
+                        counter=counter+1
+                        
+                    print('break 1')    
+                    break
+            else:
+                if(key):
+                    companyId=dataset['company_id'][counter2]
+                    #print(companyId)
+                    if(dataCondition[companyId-1][1]): 
+                        capturINDEX=counter2
+                        key=False
+                        
+                        if(counter2==lenghtDataset-1):
+                            companyId=dataset['company_id'][counter1]
+                            joinDATE=dataset['join_date'][counter1]
+                            data.append([companyId,joinDATE,value])
+                
+                            #block this case to happen agian
+                
+                            dataCondition[companyId-1][1]=False
+                
+                            # jump to the other case   
+                            #in this case counter1=lenghtDataset-1 !!!!!!!!!!
+                            
+                            counter1=capturINDEX
+                            key=True
+                            value=1
+                        
+                            print('break 2')
+                            break
+                        
         else :
-            company_id=dataset['company_id'][counter]
-            join_date=dataset['join_date'][counter]
-            data.append([company_id,join_date,value])
-            value=1
-            if(counter==lenghtDataset-1):
-                 company_id=dataset['company_id'][counter]
-                 join_date=dataset['join_date'][counter]
-                 data.append([company_id,join_date,value])
-                 value=1
-                 
-    counter=counter+1
-
-
+            if(capturINDEX==counter1):
+                companyId=dataset['company_id'][counter1]
+                joinDATE=dataset['join_date'][counter1]
+                data.append([companyId,joinDATE,value])
+                
+                # RESET EVRYTHING !!!!!
+                
+                key=True
+                value=1
+                counter1=counter2
+                counter2=counter1+1   
+                
+                #############################
+                #it cause me 6 houres to fix it
+                #by adding just this line to code
+                
+                capturINDEX=counter1
+                ##############################
+                counter=0
+                while(counter<MaxDataSet['company_id']):
+                    dataCondition[counter][1]=True
+                    counter=counter+1
+                
+                #print('break3')
+                break
+            else:
+                companyId=dataset['company_id'][counter1]
+                joinDATE=dataset['join_date'][counter1]
+                data.append([companyId,joinDATE,value])
+                
+                #block this case to happen agian
+                
+                dataCondition[companyId-1][1]=False
+                
+                # jump to the other case   
+             
+                counter1=capturINDEX
+                counter2=counter1+1
+                key=True
+                value=1
+                #print('break 4')
+                break
+        #print(counter1)                        
+        counter2=counter2+1
+        #print(counter2)
+       # print(counter2)
+        
+    # add if the last one is unique
+    
+    if(counter1==lenghtDataset-1):
+        companyId=dataset['company_id'][counter1]
+        joinDATE=dataset['join_date'][counter1]
+        data.append([companyId,joinDATE,value])
+        break
+        
+        
+            
+            
+print('ok')
 NewHire=pd.DataFrame(data, 
            columns = ['company_id', 'join_date',', count_new_hire'])
-
-
- 
+                            
 
 
 
@@ -233,41 +386,294 @@ NewHire=pd.DataFrame(data,
 
 ##initialinitializing dataframe handler
 data=[]
+dataCondition=[]
+value=1
+capturINDEX=0
+counter1=0
+counter2=1
+key=True
+
+
+
+#initializing dataCondition
+
+counter=1
+while(counter<=MaxDataSet['company_id']):
+    dataCondition.append([counter,True])
+    counter=counter+1
+print(dataCondition)
+
 
 
 #sort the dataset to make the calcule more easy
-
+print("######### sort the dataset to make the calcule more easy #########")
 dataset.sort_values(by=['quit_date'], inplace=True, ascending=True)
 dataset =dataset.reset_index(drop=True)
 
 
 
+
+# Make Operations
+
+print('make operation')
+lenghtDataset=len(dataset)
+
+while(counter1<lenghtDataset):
+    #print(counter1)
+    #counter2=counter1+1
+    while (counter2<lenghtDataset):
+        if(dataset['quit_date'][counter1]==dataset['quit_date'][counter2]):
+            if(dataset['company_id'][counter1]==dataset['company_id'][counter2]):
+                value=value+1
+                if(counter2==lenghtDataset-1):
+                    companyId=dataset['company_id'][counter1]
+                    QuitDate=dataset['quit_date'][counter1]
+                    data.append([companyId,QuitDate,value])
+                    # RESET EVRYTHING !!!!!
+                
+                    key=True
+                    value=1
+                    counter1=counter2+1
+                
+                    counter=0
+                    while(counter<MaxDataSet['company_id']):
+                        dataCondition[counter][1]=True
+                        counter=counter+1
+                        
+                    #print('break 1')    
+                    break
+            else:
+                if(key):
+                    companyId=dataset['company_id'][counter2]
+                    #print(companyId)
+                    if(dataCondition[companyId-1][1]): 
+                        capturINDEX=counter2
+                        key=False
+                        
+                        if(counter2==lenghtDataset-1):
+                            companyId=dataset['company_id'][counter1]
+                            QuitDate=dataset['quit_date'][counter1]
+                            data.append([companyId,QuitDate,value])
+                
+                            #block this case to happen agian
+                
+                            dataCondition[companyId-1][1]=False
+                
+                            # jump to the other case   
+                            #in this case counter1=lenghtDataset-1 !!!!!!!!!!
+                            
+                            counter1=capturINDEX
+                            key=True
+                            value=1
+                        
+                            #print('break 2')
+                            break
+                        
+        else :
+            if(capturINDEX==counter1):
+                companyId=dataset['company_id'][counter1]
+                QuitDate=dataset['quit_date'][counter1]
+                data.append([companyId,QuitDate,value])
+                
+                # RESET EVRYTHING !!!!!
+                
+                key=True
+                value=1
+                counter1=counter2
+                counter2=counter1+1   
+                
+                #############################
+                #it cause me 6 houres to fix it
+                #by adding just this line to code
+                
+                capturINDEX=counter1
+                ##############################
+                counter=0
+                while(counter<MaxDataSet['company_id']):
+                    dataCondition[counter][1]=True
+                    counter=counter+1
+                
+                #print('break3')
+                break
+            else:
+                companyId=dataset['company_id'][counter1]
+                QuitDate=dataset['quit_date'][counter1]
+                data.append([companyId,QuitDate,value])
+                
+                #block this case to happen agian
+                
+                dataCondition[companyId-1][1]=False
+                
+                # jump to the other case   
+             
+                counter1=capturINDEX
+                counter2=counter1+1
+                key=True
+                value=1
+                #print('break 4')
+                break
+        #print(counter1)                        
+        counter2=counter2+1
+        #print(counter2)
+       # print(counter2)
+        
+    # add if the last one is unique
+    
+    if(counter1==lenghtDataset-1):
+        companyId=dataset['company_id'][counter1]
+        QuitDate=dataset['quit_date'][counter1]
+        data.append([companyId,QuitDate,value])
+        break
+        
+        
+            
+            
+print('ok')
+Churn=pd.DataFrame(data, 
+           columns = ['company_id', 'quit_date',', count_chrun'])
+ 
+
+                           
+#boxplot churn/salary
+
+
+
+dfPlot=dataset[['quit_date','salary']]
+dfPlot.plot.box(dfPlot,y="salary")
+
+
+############################
+################ knn tree linear regrission
+
+#################################"
+
+
+
+#reading dataset
+
+dataset=pd.read_csv('employee_retention_data.csv')
+
+
+
+#changing the columns dataset on lower case
+
+dataset.columns= map(str.lower, dataset.columns)
+
+
+# delteing missing values of salary column
+
+
+datasetMissingData= dataset.isnull() 
+datasetMissingDataSalary= dataset['salary'].isnull() 
+print("#########Mising values of dataset########");
+#print(dataset['salary'].isnull() )
+#print(dataset['salary'][100])
+print("dataset lenght :",len(dataset));
 counter=0
 lenghtDataset=len(dataset)
-value=1
-
 while(counter<lenghtDataset):
-    if(counter==0):
-        print('do nothing')
-    else:    
-        if(dataset['quit_date'][counter]==dataset['quit_date'][counter-1]):
-            value=value+1
-        else :
-            company_id=dataset['company_id'][counter]
-            join_date=dataset['quit_date'][counter]
-            data.append([company_id,join_date,value])
-            value=1
-            if(counter==lenghtDataset-1):
-                 company_id=dataset['company_id'][counter]
-                 join_date=dataset['quit_date'][counter]
-                 data.append([company_id,join_date,value])
-                 value=1
-                 
-    counter=counter+1
+    if(datasetMissingDataSalary[counter]==True):
+        dataset=dataset.drop([counter])
+        #print(counter)
+    counter=counter+1   
+     
+    
+datasetMissingDataSalary= dataset['salary'].isnull() 
 
 
-churn=pd.DataFrame(data, 
-           columns = ['company_id', 'quit_date',', count_churn'])
+
+
+#Change data type of columns salary to float
+
+dataset['salary']=pd.to_numeric(dataset['salary'])
+print('#######Check column data types##########')
+datasetTypeSeries=dataset.dtypes
+print(datasetTypeSeries)
+
+
+
+
+
+#encodeing churn data
+
+LabelEncoder_Fit=LabelEncoder()
+churnEncoding=LabelEncoder_Fit.fit_transform(dataset['churn'])
+print(churnEncoding)
+dataset['churn']=churnEncoding
+
+
+#splitting dataset to input output
+X=dataset[['seniority','salary']]
+Y=dataset[['churn']]
+
+
+#split dataset to the train set and test set
+
+X_train,X_test,Y_train,Y_test=train_test_split(X,Y,
+train_size=0.8,
+test_size=0.2,
+random_state=0)
+
+
+#Feature scaling
+
+#sc_X=StandardScaler()
+#X_train=sc_X.fit_transform(X_train)
+#X_test=sc_X.fit_transform(X_test)
+
+#Fitting classifier to the training set
+
+classifier=DecisionTreeClassifier(criterion='entropy',random_state=0)
+classifier.fit(X_train,Y_train)
+
+
+# Make Prediction
+Y_pred_Tree=classifier.predict(X_test)
+
+#Making the confusion Matrix
+
+cm_Tree=confusion_matrix(Y_test,Y_pred_Tree)
+
+
+
+# knn methode
+
+classifier=KNeighborsClassifier(n_neighbors=5,metric='minkowski',p=2)
+classifier.fit(X_train,Y_train)
+
+
+# Make Prediction
+Y_pred_kNN=classifier.predict(X_test)
+
+
+#Making the confusion Matrix
+
+cm_Knn=confusion_matrix(Y_test,Y_pred_kNN)
+
+
+
+#############
+# Prediction
+
+################
+
+
+#Linear Regression
+regressor=LinearRegression()
+regressor.fit(X_train,Y_train)
+
+#Make prediction
+
+Y_pred_Linear=regressor.predict(X_test)
+
+print(regressor.predict([[25,9800]]))
+
+
+
+
+
+
+
 
 
 
