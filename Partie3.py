@@ -15,6 +15,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import confusion_matrix
 from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import KNeighborsClassifier
+from sklearn.linear_model import LinearRegression
 
 #reading dataset
 
@@ -49,6 +50,18 @@ datasetMissingDataSalary= dataset['salary'].isnull()
 
 
 
+
+#Change data type of columns salary to float
+
+dataset['salary']=pd.to_numeric(dataset['salary'])
+print('#######Check column data types##########')
+datasetTypeSeries=dataset.dtypes
+print(datasetTypeSeries)
+
+
+
+
+
 #encodeing churn data
 
 LabelEncoder_Fit=LabelEncoder()
@@ -72,9 +85,9 @@ random_state=0)
 
 #Feature scaling
 
-sc_X=StandardScaler()
-X_train=sc_X.fit_transform(X_train)
-X_test=sc_X.fit_transform(X_test)
+#sc_X=StandardScaler()
+#X_train=sc_X.fit_transform(X_train)
+#X_test=sc_X.fit_transform(X_test)
 
 #Fitting classifier to the training set
 
@@ -104,6 +117,41 @@ Y_pred_kNN=classifier.predict(X_test)
 #Making the confusion Matrix
 
 cm_Knn=confusion_matrix(Y_test,Y_pred_kNN)
+
+
+
+#############
+# Prediction
+
+################
+
+
+#Linear Regression
+regressor=LinearRegression()
+regressor.fit(X_train,Y_train)
+
+#Make prediction
+
+Y_pred_Linear=regressor.predict(X_test)
+
+print(regressor.predict([[25,9800]]))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
