@@ -13,6 +13,8 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import confusion_matrix
+from sklearn.preprocessing import StandardScaler
+from sklearn.neighbors import KNeighborsClassifier
 
 #reading dataset
 
@@ -68,6 +70,12 @@ test_size=0.2,
 random_state=0)
 
 
+#Feature scaling
+
+sc_X=StandardScaler()
+X_train=sc_X.fit_transform(X_train)
+X_test=sc_X.fit_transform(X_test)
+
 #Fitting classifier to the training set
 
 classifier=DecisionTreeClassifier(criterion='entropy',random_state=0)
@@ -75,11 +83,33 @@ classifier.fit(X_train,Y_train)
 
 
 # Make Prediction
-Y_pred=classifier.predict(X_test)
+Y_pred_Tree=classifier.predict(X_test)
 
 #Making the confusion Matrix
 
-cm=confusion_matrix(Y_test,Y_pred)
+cm_Tree=confusion_matrix(Y_test,Y_pred_Tree)
+
+
+
+# knn methode
+
+classifier=KNeighborsClassifier(n_neighbors=5,metric='minkowski',p=2)
+classifier.fit(X_train,Y_train)
+
+
+# Make Prediction
+Y_pred_kNN=classifier.predict(X_test)
+
+
+#Making the confusion Matrix
+
+cm_Knn=confusion_matrix(Y_test,Y_pred_kNN)
+
+
+
+
+
+
 
 
 
