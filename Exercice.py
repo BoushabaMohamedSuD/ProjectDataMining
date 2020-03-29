@@ -197,41 +197,44 @@ for span in spans:
             #getting training data
             #print("training")
             
-            trs=table.find('tr')
+            trs=table.findAll('tr')
             counter=0
             item=[name,"","","","",""]
             
             for tr in trs:
                 if(counter==0):
                    #print("EV yield")
-                    info=""
+                    print('what!!!')
+                    info=tr.find('td').text
+                    print("ok")
+                    print(info)
                     item[1]=info
                     
                 elif(counter==1):
                     #print("Catch rate")
-                    info=""
+                    info=tr.find('td').text+" "+tr.find('small').text
                     item[2]=info
                     
                 elif(counter==2):
                    # print("Base Friendship")
-                    info=""
+                    info=tr.find('td').text+" "+tr.find('small').text
                     item[3]=info
                     
                 elif(counter==3): 
                     #print("Base Exp.")
-                    info=""
+                    info=tr.find('td').text
                     item[4]=info
                     
                 elif(counter==4):
                     #print("Growth Rate")
-                    info=""
+                    info=tr.find('td').text
                     item[5]=info
                     
                 
                
                 counter=counter+1  
                 
-             dataTraining.append(item)
+            dataTraining.append(item)
             
            
                     
@@ -240,7 +243,7 @@ for span in spans:
             #getting breeding data
             #print("breeding")
             
-            trs=table.find('tr')
+            trs=table.findAll('tr')
             counter=0
             item=[name,"","",""]
             
@@ -248,17 +251,25 @@ for span in spans:
                 if(counter==0):
                     #print("Egg Groups")
                     info=""
+                    elements=tr.findAll('a')
+                    for element in elements:
+                        info=info+" "+element.text
+                        
                     item[1]=info
                     
                     
                 elif(counter==1):
                     #print("Gender")
                     info=""
+                    elements=tr.findAll('span')
+                    for element in elements:
+                        info=info+" "+element.text
+                        
                     item[2]=info
                     
                 elif(counter==2):
                     #print("Egg cycles")
-                    info=""
+                    info=tr.find('td').text+" "+tr.find('small').text
                     item[3]=info
                     
                     
