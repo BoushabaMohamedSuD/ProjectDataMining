@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 import datetime as dtime
+from bs4 import BeautifulSoup 
 
 #reading datase
 
@@ -37,3 +38,27 @@ if response.status_code == 200:
         
 del response        
         
+
+r = requests.get('https://pokemondb.net/pokedex/bulbasaur') 
+
+html=r.text 
+#print(html)
+
+
+
+soup = BeautifulSoup(html,  'html.parser')
+
+table=soup.find('table',{'class':'vitals-table'})
+
+#print(table)
+
+tds=table.findAll('td')
+
+for td in tds:
+    text=td.findAll()
+
+ 
+
+
+
+

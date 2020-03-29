@@ -59,6 +59,8 @@ Pokemons.to_csv(r'C:\Users\mohamed\Desktop\MINIPROJET\DataMining\export\Pokemons
 
 
 
+
+'''
 spans=soup.findAll('span',{"class": "infocard-lg-img"})
 
 print(span)
@@ -87,6 +89,117 @@ for span in spans:
         
     del response        
     i=i+1     
+
+
+'''
+
+
+
+#Qusetion3  
+
+
+
+
+
+spans=soup.findAll('span',{"class": "infocard-lg-data text-muted"})
+data=[]
+for span in spans:
+    link=span.find('a')
+    #print(link.get('href'))
+    href=link.get('href')
+    response = requests.get('https://pokemondb.net/'+href)
+    html1=r.text 
+    soup1 = BeautifulSoup(html,  'html.parser') 
+    
+    #getting data
+    tables=soup1.findAll('table',{'class':'vitals-table'})
+    j=0
+    for table in tables:
+        if(j==0):
+            #getting base data
+            print("data")
+            
+            tr=table.find('tr')
+            counter=0
+            for tr in trs:
+                if(counter==0):
+                    print("National №")
+                    
+                elif(counter==1):
+                    print("Type")
+                    
+                elif(counter==2):
+                    print("Species")
+                    
+                elif(counter==3): 
+                    print("Height")
+                    
+                elif(counter==4):
+                    print("Weight")
+                    
+                elif(counter==5):
+                    print("Abilities")
+                    
+                elif(counter==6): 
+                    print("Local №№")
+                    
+                    
+            
+            
+            
+        elif(j==1):
+            #getting training data
+            print("training")
+            tr=table.find('tr')
+            counter=0
+            for tr in trs:
+                if(counter==0):
+                    print("EV yield")
+                    
+                elif(counter==1):
+                    print("Catch rate")
+                    
+                elif(counter==2):
+                    print("Base Friendship")
+                    
+                elif(counter==3): 
+                    print("Base Exp.")
+                    
+                elif(counter==4):
+                    print("Growth Rate")
+                    
+                    
+            
+        elif (j==2):
+            #getting breeding data
+            print("breeding")
+            tr=table.find('tr')
+            counter=0
+             for tr in trs:
+                if(counter==0):
+                    print("Egg Groups")
+                    
+                elif(counter==1):
+                    print("Gender")
+                    
+                elif(counter==2):
+                    print("Egg cycles")
+                    
+                
+            
+            
+            
+            
+        else:
+            break
+        j=j+1
+    
+
+
+
+
+
+
 
 
 
