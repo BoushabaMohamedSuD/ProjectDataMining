@@ -49,7 +49,14 @@ html=r.text
 soup = BeautifulSoup(html,  'html.parser')
 
 table=soup.find('table',{'class':'vitals-table'})
+name=soup.find('h1').text
+print(name)
 
+
+items=[""]
+items[0]="ds"
+
+print(items)
 #print(table)
 
 tds=table.findAll('td')

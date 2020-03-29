@@ -102,25 +102,31 @@ for span in spans:
 
 
 spans=soup.findAll('span',{"class": "infocard-lg-data text-muted"})
-data=[]
+
+dataPokedex=[]
+dataTraining=[]
+dataBreeding=[]
+
 for span in spans:
     link=span.find('a')
     #print(link.get('href'))
     href=link.get('href')
     response = requests.get('https://pokemondb.net/'+href)
-    html1=r.text 
+    html1=response.text 
     soup1 = BeautifulSoup(html,  'html.parser') 
-    
+    name=soup1.find('h1').text
     #getting data
     tables=soup1.findAll('table',{'class':'vitals-table'})
     j=0
     for table in tables:
         if(j==0):
             #getting base data
-            print("data")
+            #print("data")
             
-            tr=table.find('tr')
+            trs=table.find('tr')
             counter=0
+            item=[name,"","","","","","",""]
+            
             for tr in trs:
                 if(counter==0):
                     print("National №")
@@ -149,9 +155,12 @@ for span in spans:
             
         elif(j==1):
             #getting training data
-            print("training")
-            tr=table.find('tr')
+            #print("training")
+            
+            trs=table.find('tr')
             counter=0
+            item=[name,"","","","",""]
+            
             for tr in trs:
                 if(counter==0):
                     print("EV yield")
@@ -172,10 +181,13 @@ for span in spans:
             
         elif (j==2):
             #getting breeding data
-            print("breeding")
-            tr=table.find('tr')
+            #print("breeding")
+            
+            trs=table.find('tr')
             counter=0
-             for tr in trs:
+            item=[name,"","",""]
+            
+            for tr in trs:
                 if(counter==0):
                     print("Egg Groups")
                     
@@ -192,12 +204,13 @@ for span in spans:
             
         else:
             break
+        
+        
         j=j+1
+        
+    del response
     
-
-
-
-
+     
 
 
 
