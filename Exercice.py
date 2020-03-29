@@ -107,35 +107,43 @@ dataPokedex=[]
 dataTraining=[]
 dataBreeding=[]
 
+print("go ....")
 for span in spans:
+    print("let's go ....")
     link=span.find('a')
-    #print(link.get('href'))
+   # print(link.get('href'))
     href=link.get('href')
     response = requests.get('https://pokemondb.net/'+href)
     html1=response.text 
-    soup1 = BeautifulSoup(html,  'html.parser') 
+    #print(html1)
+    soup1 = BeautifulSoup(html1,'html.parser') 
     name=soup1.find('h1').text
+    #print(name)
     #getting data
     tables=soup1.findAll('table',{'class':'vitals-table'})
+    #print(tables)
     j=0
     for table in tables:
+        print("her we  go again ....")
         if(j==0):
             #getting base data
             #print("data")
             
-            trs=table.find('tr')
+            trs=table.findAll('tr')
             counter=0
             item=[name,"","","","","","",""]
             
+            
             for tr in trs:
                 if(counter==0):
-                    print("National №")
-                    info= tr.find('td').find('strong')
+                    #print("National №")
+                    info= tr.find('td').find('strong').text
                     item[1]=info
+                   
                
                     
                 elif(counter==1):
-                    print("Type")
+                    #print("Type")
                     info=""
                     elements=tr.findAll('a')
                     for element in elements:
@@ -143,22 +151,22 @@ for span in spans:
                     item[2]=info
                     
                 elif(counter==2):
-                    print("Species")
-                    info=tr.find('td')
+                    #print("Species")
+                    info=tr.find('td').text
                     item[3]=info
                     
                 elif(counter==3): 
-                    print("Height")
-                    info=tr.find('td')
+                   # print("Height")
+                    info=tr.find('td').text
                     item[4]=info
                     
                 elif(counter==4):
-                    print("Weight")
-                    info=tr.find('td')
+                    #print("Weight")
+                    info=tr.find('td').text
                     item[5]=info
                     
                 elif(counter==5):
-                    print("Abilities")
+                    #print("Abilities")
                     info=""
                     elements=tr.findAll('a')
                     for element in elements:
@@ -167,7 +175,7 @@ for span in spans:
                     item[6]=info
                     
                 elif(counter==6): 
-                    print("Local №№")
+                    #print("Local №№")
                     info=""
                     elements=tr.findAll('small')
                     for elemnent in elements:
@@ -176,10 +184,11 @@ for span in spans:
                     item[7]=info
                     
                
-               
-                counter=counter+1  
                 
-             dataPokedex.append(item)
+                counter=counter+1  
+            
+            dataPokedex.append(item)
+             
                 
             
             
@@ -194,30 +203,37 @@ for span in spans:
             
             for tr in trs:
                 if(counter==0):
-                    print("EV yield")
-                    item[1]=
+                   #print("EV yield")
+                    info=""
+                    item[1]=info
                     
                 elif(counter==1):
-                    print("Catch rate")
-                    item[2]=
+                    #print("Catch rate")
+                    info=""
+                    item[2]=info
                     
                 elif(counter==2):
-                    print("Base Friendship")
-                    item[3]=
+                   # print("Base Friendship")
+                    info=""
+                    item[3]=info
                     
                 elif(counter==3): 
-                    print("Base Exp.")
-                    item[4]=
+                    #print("Base Exp.")
+                    info=""
+                    item[4]=info
                     
                 elif(counter==4):
-                    print("Growth Rate")
-                    item[5]=
+                    #print("Growth Rate")
+                    info=""
+                    item[5]=info
                     
                 
+               
+                counter=counter+1  
                 
-                counter=counetr+1  
-                
-            dataTraining.append(item)
+             dataTraining.append(item)
+            
+           
                     
             
         elif (j==2):
@@ -230,22 +246,29 @@ for span in spans:
             
             for tr in trs:
                 if(counter==0):
-                    print("Egg Groups")
-                    item[1]=
+                    #print("Egg Groups")
+                    info=""
+                    item[1]=info
+                    
                     
                 elif(counter==1):
-                    print("Gender")
-                    item[2]=
+                    #print("Gender")
+                    info=""
+                    item[2]=info
                     
                 elif(counter==2):
-                    print("Egg cycles")
-                    item[3]=
+                    #print("Egg cycles")
+                    info=""
+                    item[3]=info
+                    
                     
                 
                 
                 counter=counter+1
                 
             dataBreeding.append(item)
+                
+            
                 
             
             
