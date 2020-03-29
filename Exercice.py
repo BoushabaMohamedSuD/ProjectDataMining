@@ -106,10 +106,13 @@ spans=soup.findAll('span',{"class": "infocard-lg-data text-muted"})
 dataPokedex=[]
 dataTraining=[]
 dataBreeding=[]
+dataOpps=[]
 
-print("go ....")
+#print("go ....")
+index=0
 for span in spans:
-    print("let's go ....")
+    print("let's go ....",index)
+    index=index+1
     link=span.find('a')
    # print(link.get('href'))
     href=link.get('href')
@@ -124,7 +127,7 @@ for span in spans:
     #print(tables)
     j=0
     for table in tables:
-        print("her we  go again ....")
+        #print("her we  go again ....")
         if(j==0):
             #getting base data
             #print("data")
@@ -204,15 +207,21 @@ for span in spans:
             for tr in trs:
                 if(counter==0):
                    #print("EV yield")
-                    print('what!!!')
+                    #print('what!!!')
                     info=tr.find('td').text
-                    print("ok")
-                    print(info)
+                    #print("ok")
+                    #print(info)
                     item[1]=info
                     
                 elif(counter==1):
                     #print("Catch rate")
-                    info=tr.find('td').text+" "+tr.find('small').text
+                    info=""
+                    try:    
+                        info=tr.find('td').text+" "+tr.find('small').text
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1])
+                    
                     item[2]=info
                     
                 elif(counter==2):
