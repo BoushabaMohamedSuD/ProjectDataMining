@@ -297,6 +297,24 @@ for span in spans:
 
 
 
+#creating dataframe by using pandas
+
+Pokedex=pd.DataFrame(dataPokedex, columns = ['name', 'National №','Type','Species'
+                                             ,'Height','Weight','Abilities','Local №'])
+
+Training=pd.DataFrame(dataTraining, columns = ['name','EV yield', 'Catch rate','Base Friendship'
+                                               ,'Base Exp.' ,'Growth Rate'])
+
+Breeding=pd.DataFrame(dataBreeding, columns = ['name', 'Egg Groups','Gender','Egg cycles'])
+
+#creat csv file 
+
+Pokedex.to_csv(r'C:\Users\mohamed\Desktop\MINIPROJET\DataMining\export\Pokedex.csv',index = False)
+Training.to_csv(r'C:\Users\mohamed\Desktop\MINIPROJET\DataMining\export\Training.csv',index = False)
+Breeding.to_csv(r'C:\Users\mohamed\Desktop\MINIPROJET\DataMining\export\Breeding.csv',index = False)
+
+
+
 
 
 
