@@ -1,0 +1,1781 @@
+name,EV yield,Catch rate,Base Friendship,Base Exp.,Growth Rate
+Bulbasaur,"
+1 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),64,Medium Slow
+Ivysaur,"
+1 Special Attack, 1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Venusaur,"
+2 Special Attack, 1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),236,Medium Slow
+Charmander,"
+1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),62,Medium Slow
+Charmeleon,"
+1 Special Attack, 1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Charizard,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),240,Medium Slow
+Squirtle,"
+1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),63,Medium Slow
+Wartortle,"
+1 Defense, 1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Blastoise,"
+3 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),239,Medium Slow
+Caterpie,"
+1 HP ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),39,Medium Fast
+Metapod,"
+2 Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),72,Medium Fast
+Butterfree,"
+2 Special Attack, 1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),178,Medium Fast
+Weedle,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),39,Medium Fast
+Kakuna,"
+2 Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),72,Medium Fast
+Beedrill,"
+2 Attack, 1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),178,Medium Fast
+Pidgey,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),50,Medium Slow
+Pidgeotto,"
+2 Speed ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),122,Medium Slow
+Pidgeot,"
+3 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),216,Medium Slow
+Rattata,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),51,Medium Fast
+Raticate,"
+2 Speed ","127 (16.6% with PokéBall, full HP) (16.6% with PokéBall, full HP)",70 (normal) (normal),145,Medium Fast
+Spearow,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),52,Medium Fast
+Fearow,"
+2 Speed ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),155,Medium Fast
+Ekans,"
+1 Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),58,Medium Fast
+Arbok,"
+2 Attack ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),157,Medium Fast
+Pikachu,"
+2 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),112,Medium Fast
+Raichu,"
+3 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),218,Medium Fast
+Sandshrew,"
+1 Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),60,Medium Fast
+Sandslash,"
+2 Defense ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),158,Medium Fast
+Nidoran♀,"
+1 HP ","235 (30.7% with PokéBall, full HP) (30.7% with PokéBall, full HP)",70 (normal) (normal),55,Medium Slow
+Nidorina,"
+2 HP ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),128,Medium Slow
+Nidoqueen,"
+3 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),227,Medium Slow
+Nidoran♂,"
+1 Attack ","235 (30.7% with PokéBall, full HP) (30.7% with PokéBall, full HP)",70 (normal) (normal),55,Medium Slow
+Nidorino,"
+2 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),128,Medium Slow
+Nidoking,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),227,Medium Slow
+Clefairy,"
+2 HP ","150 (19.6% with PokéBall, full HP) (19.6% with PokéBall, full HP)",140 (higher than normal) (higher than normal),113,Fast
+Clefable,"
+3 HP ","25 (3.3% with PokéBall, full HP) (3.3% with PokéBall, full HP)",140 (higher than normal) (higher than normal),217,Fast
+Vulpix,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),60,Medium Fast
+Ninetales,"
+1 Special Defense, 1 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),177,Medium Fast
+Jigglypuff,"
+2 HP ","170 (22.2% with PokéBall, full HP) (22.2% with PokéBall, full HP)",70 (normal) (normal),95,Fast
+Wigglytuff,"
+3 HP ","50 (6.5% with PokéBall, full HP) (6.5% with PokéBall, full HP)",70 (normal) (normal),196,Fast
+Zubat,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),49,Medium Fast
+Golbat,"
+2 Speed ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),159,Medium Fast
+Oddish,"
+1 Special Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),64,Medium Slow
+Gloom,"
+2 Special Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),138,Medium Slow
+Vileplume,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),221,Medium Slow
+Paras,"
+1 Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),57,Medium Fast
+Parasect,"
+2 Attack, 1 Defense ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),142,Medium Fast
+Venonat,"
+1 Special Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Venomoth,"
+1 Special Attack, 1 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),158,Medium Fast
+Diglett,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),53,Medium Fast
+Dugtrio,"
+2 Speed ","50 (6.5% with PokéBall, full HP) (6.5% with PokéBall, full HP)",70 (normal) (normal),149,Medium Fast
+Meowth,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),58,Medium Fast
+Persian,"
+2 Speed ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),154,Medium Fast
+Psyduck,"
+1 Special Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),64,Medium Fast
+Golduck,"
+2 Special Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),175,Medium Fast
+Mankey,"
+1 Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Primeape,"
+2 Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),159,Medium Fast
+Growlithe,"
+1 Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),70,Slow
+Arcanine,"
+2 Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),194,Slow
+Poliwag,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),60,Medium Slow
+Poliwhirl,"
+2 Speed ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),135,Medium Slow
+Poliwrath,"
+3 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),230,Medium Slow
+Abra,"
+1 Special Attack ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),62,Medium Slow
+Kadabra,"
+2 Special Attack ","100 (13.1% with PokéBall, full HP) (13.1% with PokéBall, full HP)",70 (normal) (normal),140,Medium Slow
+Alakazam,"
+3 Special Attack ","50 (6.5% with PokéBall, full HP) (6.5% with PokéBall, full HP)",70 (normal) (normal),225,Medium Slow
+Machop,"
+1 Attack ","180 (23.5% with PokéBall, full HP) (23.5% with PokéBall, full HP)",70 (normal) (normal),61,Medium Slow
+Machoke,"
+2 Attack ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Machamp,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),227,Medium Slow
+Bellsprout,"
+1 Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),60,Medium Slow
+Weepinbell,"
+2 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),137,Medium Slow
+Victreebel,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),221,Medium Slow
+Tentacool,"
+1 Special Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),67,Slow
+Tentacruel,"
+2 Special Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),180,Slow
+Geodude,"
+1 Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),60,Medium Slow
+Graveler,"
+2 Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),137,Medium Slow
+Golem,"
+3 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),223,Medium Slow
+Ponyta,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),82,Medium Fast
+Rapidash,"
+2 Speed ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),175,Medium Fast
+Slowpoke,"
+1 HP ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),63,Medium Fast
+Slowbro,"
+2 Defense ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),172,Medium Fast
+Magnemite,"
+1 Special Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),65,Medium Fast
+Magneton,"
+2 Special Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),163,Medium Fast
+Farfetch'd,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),132,Medium Fast
+Doduo,"
+1 Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),62,Medium Fast
+Dodrio,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),165,Medium Fast
+Seel,"
+1 Special Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),65,Medium Fast
+Dewgong,"
+2 Special Defense ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),166,Medium Fast
+Grimer,"
+1 HP ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),65,Medium Fast
+Muk,"
+1 HP, 1 Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),175,Medium Fast
+Shellder,"
+1 Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),61,Slow
+Cloyster,"
+2 Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),184,Slow
+Gastly,"
+1 Special Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),62,Medium Slow
+Haunter,"
+2 Special Attack ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Gengar,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),225,Medium Slow
+Onix,"
+1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),77,Medium Fast
+Drowzee,"
+1 Special Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),66,Medium Fast
+Hypno,"
+2 Special Defense ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),169,Medium Fast
+Krabby,"
+1 Attack ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",70 (normal) (normal),65,Medium Fast
+Kingler,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),166,Medium Fast
+Voltorb,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),66,Medium Fast
+Electrode,"
+2 Speed ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),172,Medium Fast
+Exeggcute,"
+1 Defense ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),65,Slow
+Exeggutor,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),186,Slow
+Cubone,"
+1 Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),64,Medium Fast
+Marowak,"
+2 Defense ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),149,Medium Fast
+Hitmonlee,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),159,Medium Fast
+Hitmonchan,"
+2 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),159,Medium Fast
+Lickitung,"
+2 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),77,Medium Fast
+Koffing,"
+1 Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),68,Medium Fast
+Weezing,"
+2 Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),172,Medium Fast
+Rhyhorn,"
+1 Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),69,Slow
+Rhydon,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),170,Slow
+Chansey,"
+2 HP ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",140 (higher than normal) (higher than normal),395,Fast
+Tangela,"
+1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),87,Medium Fast
+Kangaskhan,"
+2 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),172,Medium Fast
+Horsea,"
+1 Special Attack ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",70 (normal) (normal),59,Medium Fast
+Seadra,"
+1 Defense, 1 Special Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),154,Medium Fast
+Goldeen,"
+1 Attack ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",70 (normal) (normal),64,Medium Fast
+Seaking,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),158,Medium Fast
+Staryu,"
+1 Speed ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",70 (normal) (normal),68,Slow
+Starmie,"
+2 Speed ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),182,Slow
+Mr. Mime,"
+2 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),161,Medium Fast
+Scyther,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),100,Medium Fast
+Jynx,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),159,Medium Fast
+Electabuzz,"
+2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),172,Medium Fast
+Magmar,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),173,Medium Fast
+Pinsir,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),175,Slow
+Tauros,"
+1 Attack, 1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),172,Slow
+Magikarp,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),40,Slow
+Gyarados,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),189,Slow
+Lapras,"
+2 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),187,Slow
+Ditto,"
+1 HP ","35 (4.6% with PokéBall, full HP) (4.6% with PokéBall, full HP)",70 (normal) (normal),101,Medium Fast
+Eevee,"
+1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),65,Medium Fast
+Vaporeon,"
+2 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),184,Medium Fast
+Jolteon,"
+2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),184,Medium Fast
+Flareon,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),184,Medium Fast
+Porygon,"
+1 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),79,Medium Fast
+Omanyte,"
+1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),71,Medium Fast
+Omastar,"
+2 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),173,Medium Fast
+Kabuto,"
+1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),71,Medium Fast
+Kabutops,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),173,Medium Fast
+Aerodactyl,"
+2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),180,Slow
+Snorlax,"
+2 HP ","25 (3.3% with PokéBall, full HP) (3.3% with PokéBall, full HP)",70 (normal) (normal),189,Slow
+Articuno,"
+3 Special Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),261,Slow
+Zapdos,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),261,Slow
+Moltres,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),261,Slow
+Dratini,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),60,Slow
+Dragonair,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),147,Slow
+Dragonite,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),270,Slow
+Mewtwo,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),306,Slow
+Mew,"
+3 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",100 (higher than normal) (higher than normal),270,Medium Slow
+Chikorita,"
+1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),64,Medium Slow
+Bayleef,"
+1 Defense, 1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Meganium,"
+1 Defense, 2 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),236,Medium Slow
+Cyndaquil,"
+1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),62,Medium Slow
+Quilava,"
+1 Special Attack, 1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Typhlosion,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),240,Medium Slow
+Totodile,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),63,Medium Slow
+Croconaw,"
+1 Attack, 1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Feraligatr,"
+2 Attack, 1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),239,Medium Slow
+Sentret,"
+1 Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),43,Medium Fast
+Furret,"
+2 Speed ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),145,Medium Fast
+Hoothoot,"
+1 HP ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),52,Medium Fast
+Noctowl,"
+2 HP ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),158,Medium Fast
+Ledyba,"
+1 Special Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),53,Fast
+Ledian,"
+2 Special Defense ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),137,Fast
+Spinarak,"
+1 Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),50,Fast
+Ariados,"
+2 Attack ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),140,Fast
+Crobat,"
+3 Speed ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),241,Medium Fast
+Chinchou,"
+1 HP ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),66,Slow
+Lanturn,"
+2 HP ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),161,Slow
+Pichu,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),41,Medium Fast
+Cleffa,"
+1 Special Defense ","150 (19.6% with PokéBall, full HP) (19.6% with PokéBall, full HP)",140 (higher than normal) (higher than normal),44,Fast
+Igglybuff,"
+1 HP ","170 (22.2% with PokéBall, full HP) (22.2% with PokéBall, full HP)",70 (normal) (normal),42,Fast
+Togepi,"
+1 Special Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),49,Fast
+Togetic,"
+2 Special Defense ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),142,Fast
+Natu,"
+1 Special Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),64,Medium Fast
+Xatu,"
+1 Special Attack, 1 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),165,Medium Fast
+Mareep,"
+1 Special Attack ","235 (30.7% with PokéBall, full HP) (30.7% with PokéBall, full HP)",70 (normal) (normal),56,Medium Slow
+Flaaffy,"
+2 Special Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),128,Medium Slow
+Ampharos,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),230,Medium Slow
+Bellossom,"
+3 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),221,Medium Slow
+Marill,"
+2 HP ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),88,Fast
+Azumarill,"
+3 HP ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),189,Fast
+Sudowoodo,"
+2 Defense ","65 (8.5% with PokéBall, full HP) (8.5% with PokéBall, full HP)",70 (normal) (normal),144,Medium Fast
+Politoed,"
+3 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),225,Medium Slow
+Hoppip,"
+1 Special Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),50,Medium Slow
+Skiploom,"
+2 Speed ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),119,Medium Slow
+Jumpluff,"
+3 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),207,Medium Slow
+Aipom,"
+1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),72,Fast
+Sunkern,"
+1 Special Attack ","235 (30.7% with PokéBall, full HP) (30.7% with PokéBall, full HP)",70 (normal) (normal),36,Medium Slow
+Sunflora,"
+2 Special Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),149,Medium Slow
+Yanma,"
+1 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),78,Medium Fast
+Wooper,"
+1 HP ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),42,Medium Fast
+Quagsire,"
+2 HP ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),151,Medium Fast
+Espeon,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),184,Medium Fast
+Umbreon,"
+2 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),184,Medium Fast
+Murkrow,"
+1 Speed ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),81,Medium Slow
+Slowking,"
+3 Special Defense ","70 (9.1% with PokéBall, full HP) (9.1% with PokéBall, full HP)",70 (normal) (normal),172,Medium Fast
+Misdreavus,"
+1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),87,Fast
+Unown,"
+1 Attack, 1 Special Attack ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",70 (normal) (normal),118,Medium Fast
+Wobbuffet,"
+2 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Fast
+Girafarig,"
+2 Special Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),159,Medium Fast
+Pineco,"
+1 Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),58,Medium Fast
+Forretress,"
+2 Defense ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),163,Medium Fast
+Dunsparce,"
+1 HP ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),145,Medium Fast
+Gligar,"
+1 Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),86,Medium Slow
+Steelix,"
+2 Defense ","25 (3.3% with PokéBall, full HP) (3.3% with PokéBall, full HP)",70 (normal) (normal),179,Medium Fast
+Snubbull,"
+1 Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),60,Fast
+Granbull,"
+2 Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),158,Fast
+Qwilfish,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),88,Medium Fast
+Scizor,"
+2 Attack ","25 (3.3% with PokéBall, full HP) (3.3% with PokéBall, full HP)",70 (normal) (normal),175,Medium Fast
+Shuckle,"
+1 Defense, 1 Special Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),177,Medium Slow
+Heracross,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),175,Slow
+Sneasel,"
+1 Speed ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",35 (lower than normal) (lower than normal),86,Medium Slow
+Teddiursa,"
+1 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),66,Medium Fast
+Ursaring,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),175,Medium Fast
+Slugma,"
+1 Special Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),50,Medium Fast
+Magcargo,"
+2 Defense ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),151,Medium Fast
+Swinub,"
+1 Attack ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",70 (normal) (normal),50,Slow
+Piloswine,"
+1 HP, 1 Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),158,Slow
+Corsola,"
+1 Defense, 1 Special Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),144,Fast
+Remoraid,"
+1 Special Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),60,Medium Fast
+Octillery,"
+1 Attack, 1 Special Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),168,Medium Fast
+Delibird,"
+1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),116,Fast
+Mantine,"
+2 Special Defense ","25 (3.3% with PokéBall, full HP) (3.3% with PokéBall, full HP)",70 (normal) (normal),170,Slow
+Skarmory,"
+2 Defense ","25 (3.3% with PokéBall, full HP) (3.3% with PokéBall, full HP)",70 (normal) (normal),163,Slow
+Houndour,"
+1 Special Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",35 (lower than normal) (lower than normal),66,Slow
+Houndoom,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),175,Slow
+Kingdra,"
+1 Attack, 1 Special Attack, 1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),243,Medium Fast
+Phanpy,"
+1 HP ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),66,Medium Fast
+Donphan,"
+1 Attack, 1 Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),175,Medium Fast
+Porygon2,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),180,Medium Fast
+Stantler,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),163,Slow
+Smeargle,"
+1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),88,Fast
+Tyrogue,"
+1 Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),42,Medium Fast
+Hitmontop,"
+2 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),159,Medium Fast
+Smoochum,"
+1 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Elekid,"
+1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),72,Medium Fast
+Magby,"
+1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),73,Medium Fast
+Miltank,"
+2 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),172,Slow
+Blissey,"
+3 HP ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",140 (higher than normal) (higher than normal),608,Fast
+Raikou,"
+1 Special Attack, 2 Speed ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),261,Slow
+Entei,"
+1 HP, 2 Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),261,Slow
+Suicune,"
+1 Defense, 2 Special Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),261,Slow
+Larvitar,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),60,Slow
+Pupitar,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),144,Slow
+Tyranitar,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),270,Slow
+Lugia,"
+3 Special Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),306,Slow
+Ho-oh,"
+3 Special Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),306,Slow
+Celebi,"
+3 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",100 (higher than normal) (higher than normal),270,Medium Slow
+Treecko,"
+1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),62,Medium Slow
+Grovyle,"
+2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Sceptile,"
+3 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),239,Medium Slow
+Torchic,"
+1 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),62,Medium Slow
+Combusken,"
+1 Attack, 1 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Blaziken,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),239,Medium Slow
+Mudkip,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),62,Medium Slow
+Marshtomp,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Swampert,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),241,Medium Slow
+Poochyena,"
+1 Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),56,Medium Fast
+Mightyena,"
+2 Attack ","127 (16.6% with PokéBall, full HP) (16.6% with PokéBall, full HP)",70 (normal) (normal),147,Medium Fast
+Zigzagoon,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),56,Medium Fast
+Linoone,"
+2 Speed ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),147,Medium Fast
+Wurmple,"
+1 HP ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),56,Medium Fast
+Silcoon,"
+2 Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),72,Medium Fast
+Beautifly,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),178,Medium Fast
+Cascoon,"
+2 Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),72,Medium Fast
+Dustox,"
+3 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),173,Medium Fast
+Lotad,"
+1 Special Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),44,Medium Slow
+Lombre,"
+2 Special Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),119,Medium Slow
+Ludicolo,"
+3 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),216,Medium Slow
+Seedot,"
+1 Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),44,Medium Slow
+Nuzleaf,"
+2 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),119,Medium Slow
+Shiftry,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),216,Medium Slow
+Taillow,"
+1 Speed ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),54,Medium Slow
+Swellow,"
+2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),159,Medium Slow
+Wingull,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),54,Medium Fast
+Pelipper,"
+2 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),154,Medium Fast
+Ralts,"
+1 Special Attack ","235 (30.7% with PokéBall, full HP) (30.7% with PokéBall, full HP)",35 (lower than normal) (lower than normal),40,Slow
+Kirlia,"
+2 Special Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",35 (lower than normal) (lower than normal),97,Slow
+Gardevoir,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),233,Slow
+Surskit,"
+1 Speed ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),54,Medium Fast
+Masquerain,"
+1 Special Attack, 1 Special Defense ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),159,Medium Fast
+Shroomish,"
+1 HP ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),59,Fluctuating
+Breloom,"
+2 Attack ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),161,Fluctuating
+Slakoth,"
+1 HP ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),56,Slow
+Vigoroth,"
+2 Speed ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),154,Slow
+Slaking,"
+3 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),252,Slow
+Nincada,"
+1 Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),53,Erratic
+Ninjask,"
+2 Speed ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),160,Erratic
+Shedinja,"
+2 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),83,Erratic
+Whismur,"
+1 HP ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),48,Medium Slow
+Loudred,"
+2 HP ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),126,Medium Slow
+Exploud,"
+3 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),221,Medium Slow
+Makuhita,"
+1 HP ","180 (23.5% with PokéBall, full HP) (23.5% with PokéBall, full HP)",70 (normal) (normal),47,Fluctuating
+Hariyama,"
+2 HP ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),166,Fluctuating
+Azurill,"
+1 HP ","150 (19.6% with PokéBall, full HP) (19.6% with PokéBall, full HP)",70 (normal) (normal),38,Fast
+Nosepass,"
+1 Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),75,Medium Fast
+Skitty,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),52,Fast
+Delcatty,"
+1 HP, 1 Speed ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),140,Fast
+Sableye,"
+1 Attack, 1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),133,Medium Slow
+Mawile,"
+1 Attack, 1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),133,Fast
+Aron,"
+1 Defense ","180 (23.5% with PokéBall, full HP) (23.5% with PokéBall, full HP)",35 (lower than normal) (lower than normal),66,Slow
+Lairon,"
+2 Defense ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",35 (lower than normal) (lower than normal),151,Slow
+Aggron,"
+3 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),239,Slow
+Meditite,"
+1 Speed ","180 (23.5% with PokéBall, full HP) (23.5% with PokéBall, full HP)",70 (normal) (normal),56,Medium Fast
+Medicham,"
+2 Speed ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),144,Medium Fast
+Electrike,"
+1 Speed ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),59,Slow
+Manectric,"
+2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),166,Slow
+Plusle,"
+1 Speed ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),142,Medium Fast
+Minun,"
+1 Speed ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),142,Medium Fast
+Volbeat,"
+1 Speed ","150 (19.6% with PokéBall, full HP) (19.6% with PokéBall, full HP)",70 (normal) (normal),151,Erratic
+Illumise,"
+1 Speed ","150 (19.6% with PokéBall, full HP) (19.6% with PokéBall, full HP)",70 (normal) (normal),151,Fluctuating
+Roselia,"
+2 Special Attack ","150 (19.6% with PokéBall, full HP) (19.6% with PokéBall, full HP)",70 (normal) (normal),140,Medium Slow
+Gulpin,"
+1 HP ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",70 (normal) (normal),60,Fluctuating
+Swalot,"
+2 HP ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),163,Fluctuating
+Carvanha,"
+1 Attack ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),61,Slow
+Sharpedo,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",35 (lower than normal) (lower than normal),161,Slow
+Wailmer,"
+1 HP ","125 (16.3% with PokéBall, full HP) (16.3% with PokéBall, full HP)",70 (normal) (normal),80,Fluctuating
+Wailord,"
+2 HP ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),175,Fluctuating
+Numel,"
+1 Special Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Camerupt,"
+1 Attack, 1 Special Attack ","150 (19.6% with PokéBall, full HP) (19.6% with PokéBall, full HP)",70 (normal) (normal),161,Medium Fast
+Torkoal,"
+2 Defense ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),165,Medium Fast
+Spoink,"
+1 Special Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),66,Fast
+Grumpig,"
+2 Special Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),165,Fast
+Spinda,"
+1 Special Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),126,Fast
+Trapinch,"
+1 Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),58,Medium Slow
+Vibrava,"
+1 Attack, 1 Speed ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),119,Medium Slow
+Flygon,"
+1 Attack, 2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),234,Medium Slow
+Cacnea,"
+1 Special Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",35 (lower than normal) (lower than normal),67,Medium Slow
+Cacturne,"
+1 Attack, 1 Special Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",35 (lower than normal) (lower than normal),166,Medium Slow
+Swablu,"
+1 Special Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),62,Erratic
+Altaria,"
+2 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),172,Erratic
+Zangoose,"
+2 Attack ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),160,Erratic
+Seviper,"
+1 Attack, 1 Special Attack ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),160,Fluctuating
+Lunatone,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),161,Fast
+Solrock,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),161,Fast
+Barboach,"
+1 HP ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),58,Medium Fast
+Whiscash,"
+2 HP ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),164,Medium Fast
+Corphish,"
+1 Attack ","205 (26.8% with PokéBall, full HP) (26.8% with PokéBall, full HP)",70 (normal) (normal),62,Fluctuating
+Crawdaunt,"
+2 Attack ","155 (20.3% with PokéBall, full HP) (20.3% with PokéBall, full HP)",70 (normal) (normal),164,Fluctuating
+Baltoy,"
+1 Special Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),60,Medium Fast
+Claydol,"
+2 Special Defense ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),175,Medium Fast
+Lileep,"
+1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),71,Erratic
+Cradily,"
+2 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),173,Erratic
+Anorith,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),71,Erratic
+Armaldo,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),173,Erratic
+Feebas,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),40,Erratic
+Milotic,"
+2 Special Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),189,Erratic
+Castform,"
+1 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),147,Medium Fast
+Kecleon,"
+1 Special Defense ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),154,Medium Slow
+Shuppet,"
+1 Attack ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),59,Fast
+Banette,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),159,Fast
+Duskull,"
+1 Special Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",35 (lower than normal) (lower than normal),59,Fast
+Dusclops,"
+1 Defense, 1 Special Defense ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",35 (lower than normal) (lower than normal),159,Fast
+Tropius,"
+2 HP ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),161,Slow
+Chimecho,"
+1 Special Attack, 1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),159,Fast
+Absol,"
+2 Attack ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),163,Medium Slow
+Wynaut,"
+1 HP ","125 (16.3% with PokéBall, full HP) (16.3% with PokéBall, full HP)",70 (normal) (normal),52,Medium Fast
+Snorunt,"
+1 HP ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),60,Medium Fast
+Glalie,"
+2 HP ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),168,Medium Fast
+Spheal,"
+1 HP ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),58,Medium Slow
+Sealeo,"
+2 HP ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),144,Medium Slow
+Walrein,"
+3 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),239,Medium Slow
+Clamperl,"
+1 Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),69,Erratic
+Huntail,"
+1 Attack, 1 Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),170,Erratic
+Gorebyss,"
+2 Special Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),170,Erratic
+Relicanth,"
+1 HP, 1 Defense ","25 (3.3% with PokéBall, full HP) (3.3% with PokéBall, full HP)",70 (normal) (normal),170,Slow
+Luvdisc,"
+1 Speed ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",70 (normal) (normal),116,Fast
+Bagon,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),60,Slow
+Shelgon,"
+2 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),147,Slow
+Salamence,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),270,Slow
+Beldum,"
+1 Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),60,Slow
+Metang,"
+2 Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),147,Slow
+Metagross,"
+3 Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),270,Slow
+Regirock,"
+3 Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),261,Slow
+Regice,"
+3 Special Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),261,Slow
+Registeel,"
+2 Defense, 1 Special Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),261,Slow
+Latias,"
+3 Special Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",90 (higher than normal) (higher than normal),270,Slow
+Latios,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",90 (higher than normal) (higher than normal),270,Slow
+Kyogre,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),302,Slow
+Groudon,"
+3 Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),302,Slow
+Rayquaza,"
+2 Attack, 1 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),306,Slow
+Jirachi,"
+3 HP ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",100 (higher than normal) (higher than normal),270,Slow
+Deoxys,"
+1 Attack, 1 Special Attack, 1 Speed ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),270,Slow
+Turtwig,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),64,Medium Slow
+Grotle,"
+1 Attack, 1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Torterra,"
+2 Attack, 1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),236,Medium Slow
+Chimchar,"
+1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),62,Medium Slow
+Monferno,"
+1 Special Attack, 1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Infernape,"
+1 Attack, 1 Special Attack, 1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),240,Medium Slow
+Piplup,"
+1 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),63,Medium Slow
+Prinplup,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Empoleon,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),239,Medium Slow
+Starly,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),49,Medium Slow
+Staravia,"
+2 Speed ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),119,Medium Slow
+Staraptor,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),218,Medium Slow
+Bidoof,"
+1 HP ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),50,Medium Fast
+Bibarel,"
+2 Attack ","127 (16.6% with PokéBall, full HP) (16.6% with PokéBall, full HP)",70 (normal) (normal),144,Medium Fast
+Kricketot,"
+1 Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),39,Medium Slow
+Kricketune,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),134,Medium Slow
+Shinx,"
+1 Attack ","235 (30.7% with PokéBall, full HP) (30.7% with PokéBall, full HP)",70 (normal) (normal),53,Medium Slow
+Luxio,"
+2 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",100 (higher than normal) (higher than normal),127,Medium Slow
+Luxray,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),235,Medium Slow
+Budew,"
+1 Special Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),56,Medium Slow
+Roserade,"
+3 Special Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),232,Medium Slow
+Cranidos,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),70,Erratic
+Rampardos,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),173,Erratic
+Shieldon,"
+1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),70,Erratic
+Bastiodon,"
+2 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),173,Erratic
+Burmy,"
+1 Special Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),45,Medium Fast
+Wormadam,"
+2 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),148,Medium Fast
+Mothim,"
+1 Attack, 1 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),148,Medium Fast
+Combee,"
+1 Speed ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),49,Medium Slow
+Vespiquen,"
+1 Defense, 1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),166,Medium Slow
+Pachirisu,"
+1 Speed ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",100 (higher than normal) (higher than normal),142,Medium Fast
+Buizel,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),66,Medium Fast
+Floatzel,"
+2 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),173,Medium Fast
+Cherubi,"
+1 Special Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),55,Medium Fast
+Cherrim,"
+2 Special Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),158,Medium Fast
+Shellos,"
+1 HP ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),65,Medium Fast
+Gastrodon,"
+2 HP ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),166,Medium Fast
+Ambipom,"
+2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",100 (higher than normal) (higher than normal),169,Fast
+Drifloon,"
+1 HP ","125 (16.3% with PokéBall, full HP) (16.3% with PokéBall, full HP)",70 (normal) (normal),70,Fluctuating
+Drifblim,"
+2 HP ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),174,Fluctuating
+Buneary,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",0 (lower than normal) (lower than normal),70,Medium Fast
+Lopunny,"
+2 Speed ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",140 (higher than normal) (higher than normal),168,Medium Fast
+Mismagius,"
+1 Special Attack, 1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),173,Fast
+Honchkrow,"
+2 Attack ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),177,Medium Slow
+Glameow,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),62,Fast
+Purugly,"
+2 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),158,Fast
+Chingling,"
+1 Special Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),57,Fast
+Stunky,"
+1 Speed ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",70 (normal) (normal),66,Medium Fast
+Skuntank,"
+2 HP ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),168,Medium Fast
+Bronzor,"
+1 Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),60,Medium Fast
+Bronzong,"
+1 Defense, 1 Special Defense ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),175,Medium Fast
+Bonsly,"
+1 Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),58,Medium Fast
+Mime Jr.,"
+1 Special Defense ","145 (19.0% with PokéBall, full HP) (19.0% with PokéBall, full HP)",70 (normal) (normal),62,Medium Fast
+Happiny,"
+1 HP ","130 (17.0% with PokéBall, full HP) (17.0% with PokéBall, full HP)",140 (higher than normal) (higher than normal),110,Fast
+Chatot,"
+1 Attack ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),144,Medium Slow
+Spiritomb,"
+1 Defense, 1 Special Defense ","100 (13.1% with PokéBall, full HP) (13.1% with PokéBall, full HP)",70 (normal) (normal),170,Medium Fast
+Gible,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),60,Slow
+Gabite,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),144,Slow
+Garchomp,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),270,Slow
+Munchlax,"
+1 HP ","50 (6.5% with PokéBall, full HP) (6.5% with PokéBall, full HP)",70 (normal) (normal),78,Slow
+Riolu,"
+1 Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),57,Medium Slow
+Lucario,"
+1 Attack, 1 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),184,Medium Slow
+Hippopotas,"
+1 Defense ","140 (18.3% with PokéBall, full HP) (18.3% with PokéBall, full HP)",70 (normal) (normal),66,Slow
+Hippowdon,"
+2 Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),184,Slow
+Skorupi,"
+1 Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),66,Slow
+Drapion,"
+2 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),175,Slow
+Croagunk,"
+1 Attack ","140 (18.3% with PokéBall, full HP) (18.3% with PokéBall, full HP)",100 (higher than normal) (higher than normal),60,Medium Fast
+Toxicroak,"
+2 Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),172,Medium Fast
+Carnivine,"
+2 Attack ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),159,Slow
+Finneon,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),66,Erratic
+Lumineon,"
+2 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),161,Erratic
+Mantyke,"
+1 Special Defense ","25 (3.3% with PokéBall, full HP) (3.3% with PokéBall, full HP)",70 (normal) (normal),69,Slow
+Snover,"
+1 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),67,Slow
+Abomasnow,"
+1 Attack, 1 Special Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),173,Slow
+Weavile,"
+1 Attack, 1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),179,Medium Slow
+Magnezone,"
+3 Special Attack ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",70 (normal) (normal),241,Medium Fast
+Lickilicky,"
+3 HP ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",70 (normal) (normal),180,Medium Fast
+Rhyperior,"
+3 Attack ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",70 (normal) (normal),241,Slow
+Tangrowth,"
+2 Defense ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",70 (normal) (normal),187,Medium Fast
+Electivire,"
+3 Attack ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",70 (normal) (normal),243,Medium Fast
+Magmortar,"
+3 Special Attack ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",70 (normal) (normal),243,Medium Fast
+Togekiss,"
+2 Special Attack, 1 Special Defense ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",70 (normal) (normal),245,Fast
+Yanmega,"
+2 Attack ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",70 (normal) (normal),180,Medium Fast
+Leafeon,"
+2 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),184,Medium Fast
+Glaceon,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),184,Medium Fast
+Gliscor,"
+2 Defense ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",70 (normal) (normal),179,Medium Slow
+Mamoswine,"
+3 Attack ","50 (6.5% with PokéBall, full HP) (6.5% with PokéBall, full HP)",70 (normal) (normal),239,Slow
+Porygon-Z,"
+3 Special Attack ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",70 (normal) (normal),241,Medium Fast
+Gallade,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),233,Slow
+Probopass,"
+1 Defense, 2 Special Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),184,Medium Fast
+Dusknoir,"
+1 Defense, 2 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),236,Fast
+Froslass,"
+2 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),168,Medium Fast
+Rotom,"
+1 Special Attack, 1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),154,Medium Fast
+Uxie,"
+2 Defense, 1 Special Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",140 (higher than normal) (higher than normal),261,Slow
+Mesprit,"
+1 Attack, 1 Special Attack, 1 Special Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",140 (higher than normal) (higher than normal),261,Slow
+Azelf,"
+2 Attack, 1 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",140 (higher than normal) (higher than normal),261,Slow
+Dialga,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),306,Slow
+Palkia,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),306,Slow
+Heatran,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",100 (higher than normal) (higher than normal),270,Slow
+Regigigas,"
+3 Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),302,Slow
+Giratina,"
+3 HP ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),306,Slow
+Cresselia,"
+3 Special Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",100 (higher than normal) (higher than normal),270,Slow
+Phione,"
+1 HP ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",70 (normal) (normal),216,Slow
+Manaphy,"
+3 HP ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",70 (normal) (normal),270,Slow
+Darkrai,"
+2 Special Attack, 1 Speed ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),270,Slow
+Shaymin,"
+3 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",100 (higher than normal) (higher than normal),270,Medium Slow
+Arceus,"
+3 HP ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),324,Slow
+Victini,"
+3 HP ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",100 (higher than normal) (higher than normal),270,Slow
+Snivy,"
+1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),62,Medium Slow
+Servine,"
+2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),145,Medium Slow
+Serperior,"
+3 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),238,Medium Slow
+Tepig,"
+1 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),62,Medium Slow
+Pignite,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),146,Medium Slow
+Emboar,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),238,Medium Slow
+Oshawott,"
+1 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),62,Medium Slow
+Dewott,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),145,Medium Slow
+Samurott,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),238,Medium Slow
+Patrat,"
+1 Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),51,Medium Fast
+Watchog,"
+2 Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),147,Medium Fast
+Lillipup,"
+1 Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),55,Medium Slow
+Herdier,"
+2 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),130,Medium Slow
+Stoutland,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),225,Medium Slow
+Purrloin,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),56,Medium Fast
+Liepard,"
+2 Speed ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),156,Medium Fast
+Pansage,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),63,Medium Fast
+Simisage,"
+2 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),174,Medium Fast
+Pansear,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),63,Medium Fast
+Simisear,"
+2 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),174,Medium Fast
+Panpour,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),63,Medium Fast
+Simipour,"
+2 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),174,Medium Fast
+Munna,"
+1 HP ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),58,Fast
+Musharna,"
+2 HP ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),170,Fast
+Pidove,"
+1 Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),53,Medium Slow
+Tranquill,"
+2 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),125,Medium Slow
+Unfezant,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),220,Medium Slow
+Blitzle,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),59,Medium Fast
+Zebstrika,"
+2 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),174,Medium Fast
+Roggenrola,"
+1 Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),56,Medium Slow
+Boldore,"
+1 Attack, 1 Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),137,Medium Slow
+Gigalith,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),232,Medium Slow
+Woobat,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),65,Medium Fast
+Swoobat,"
+2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),149,Medium Fast
+Drilbur,"
+1 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),66,Medium Fast
+Excadrill,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),178,Medium Fast
+Audino,"
+2 HP ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),390,Fast
+Timburr,"
+1 Attack ","180 (23.5% with PokéBall, full HP) (23.5% with PokéBall, full HP)",70 (normal) (normal),61,Medium Slow
+Gurdurr,"
+2 Attack ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Conkeldurr,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),227,Medium Slow
+Tympole,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),59,Medium Slow
+Palpitoad,"
+2 HP ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),134,Medium Slow
+Seismitoad,"
+3 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),229,Medium Slow
+Throh,"
+2 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),163,Medium Fast
+Sawk,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),163,Medium Fast
+Sewaddle,"
+1 Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),62,Medium Slow
+Swadloon,"
+2 Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),133,Medium Slow
+Leavanny,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),225,Medium Slow
+Venipede,"
+1 Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),52,Medium Slow
+Whirlipede,"
+2 Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),126,Medium Slow
+Scolipede,"
+3 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),218,Medium Slow
+Cottonee,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),56,Medium Fast
+Whimsicott,"
+2 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),168,Medium Fast
+Petilil,"
+1 Special Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),56,Medium Fast
+Lilligant,"
+2 Special Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),168,Medium Fast
+Basculin,"
+2 Speed ","25 (3.3% with PokéBall, full HP) (3.3% with PokéBall, full HP)",70 (normal) (normal),161,Medium Fast
+Sandile,"
+1 Attack ","180 (23.5% with PokéBall, full HP) (23.5% with PokéBall, full HP)",70 (normal) (normal),58,Medium Slow
+Krokorok,"
+2 Attack ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),123,Medium Slow
+Krookodile,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),234,Medium Slow
+Darumaka,"
+1 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),63,Medium Slow
+Darmanitan,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),168,Medium Slow
+Maractus,"
+2 Special Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),161,Medium Fast
+Dwebble,"
+1 Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),65,Medium Fast
+Crustle,"
+2 Defense ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),170,Medium Fast
+Scraggy,"
+1 Attack ","180 (23.5% with PokéBall, full HP) (23.5% with PokéBall, full HP)",35 (lower than normal) (lower than normal),70,Medium Fast
+Scrafty,"
+1 Defense, 1 Special Defense ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),171,Medium Fast
+Sigilyph,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),172,Medium Fast
+Yamask,"
+1 Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Cofagrigus,"
+2 Defense ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),169,Medium Fast
+Tirtouga,"
+1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),71,Medium Fast
+Carracosta,"
+2 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),173,Medium Fast
+Archen,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),71,Medium Fast
+Archeops,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),177,Medium Fast
+Trubbish,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),66,Medium Fast
+Garbodor,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),166,Medium Fast
+Zorua,"
+1 Special Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),66,Medium Slow
+Zoroark,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),179,Medium Slow
+Minccino,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),60,Fast
+Cinccino,"
+2 Speed ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),165,Fast
+Gothita,"
+1 Special Defense ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),58,Medium Slow
+Gothorita,"
+2 Special Defense ","100 (13.1% with PokéBall, full HP) (13.1% with PokéBall, full HP)",70 (normal) (normal),137,Medium Slow
+Gothitelle,"
+3 Special Defense ","50 (6.5% with PokéBall, full HP) (6.5% with PokéBall, full HP)",70 (normal) (normal),221,Medium Slow
+Solosis,"
+1 Special Attack ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),58,Medium Slow
+Duosion,"
+2 Special Attack ","100 (13.1% with PokéBall, full HP) (13.1% with PokéBall, full HP)",70 (normal) (normal),130,Medium Slow
+Reuniclus,"
+3 Special Attack ","50 (6.5% with PokéBall, full HP) (6.5% with PokéBall, full HP)",70 (normal) (normal),221,Medium Slow
+Ducklett,"
+1 HP ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Swanna,"
+2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),166,Medium Fast
+Vanillite,"
+1 Special Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),61,Slow
+Vanillish,"
+2 Special Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),138,Slow
+Vanilluxe,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),241,Slow
+Deerling,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),67,Medium Fast
+Sawsbuck,"
+2 Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),166,Medium Fast
+Emolga,"
+2 Speed ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),150,Medium Fast
+Karrablast,"
+1 Attack ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),63,Medium Fast
+Escavalier,"
+2 Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),173,Medium Fast
+Foongus,"
+1 HP ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),59,Medium Fast
+Amoonguss,"
+2 HP ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),162,Medium Fast
+Frillish,"
+1 Special Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),67,Medium Fast
+Jellicent,"
+2 Special Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),168,Medium Fast
+Alomomola,"
+2 HP ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),165,Fast
+Joltik,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),64,Medium Fast
+Galvantula,"
+2 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),165,Medium Fast
+Ferroseed,"
+1 Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Ferrothorn,"
+2 Defense ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),171,Medium Fast
+Klink,"
+1 Defense ","130 (17.0% with PokéBall, full HP) (17.0% with PokéBall, full HP)",70 (normal) (normal),60,Medium Slow
+Klang,"
+2 Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),154,Medium Slow
+Klinklang,"
+3 Defense ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",70 (normal) (normal),234,Medium Slow
+Tynamo,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),55,Slow
+Eelektrik,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),142,Slow
+Eelektross,"
+3 Attack ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",70 (normal) (normal),232,Slow
+Elgyem,"
+1 Special Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),67,Medium Fast
+Beheeyem,"
+2 Special Attack ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),170,Medium Fast
+Litwick,"
+1 Special Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),55,Medium Slow
+Lampent,"
+2 Special Attack ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),130,Medium Slow
+Chandelure,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),234,Medium Slow
+Axew,"
+1 Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",35 (lower than normal) (lower than normal),64,Slow
+Fraxure,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",35 (lower than normal) (lower than normal),144,Slow
+Haxorus,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),243,Slow
+Cubchoo,"
+1 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Beartic,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),177,Medium Fast
+Cryogonal,"
+2 Special Defense ","25 (3.3% with PokéBall, full HP) (3.3% with PokéBall, full HP)",70 (normal) (normal),180,Medium Fast
+Shelmet,"
+1 Defense ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Accelgor,"
+2 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),173,Medium Fast
+Stunfisk,"
+2 HP ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),165,Medium Fast
+Mienfoo,"
+1 Attack ","180 (23.5% with PokéBall, full HP) (23.5% with PokéBall, full HP)",70 (normal) (normal),70,Medium Slow
+Mienshao,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),179,Medium Slow
+Druddigon,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),170,Medium Fast
+Golett,"
+1 Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Golurk,"
+2 Attack ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),169,Medium Fast
+Pawniard,"
+1 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",35 (lower than normal) (lower than normal),68,Medium Fast
+Bisharp,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),172,Medium Fast
+Bouffalant,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),172,Medium Fast
+Rufflet,"
+1 Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),70,Slow
+Braviary,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),179,Slow
+Vullaby,"
+1 Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",35 (lower than normal) (lower than normal),74,Slow
+Mandibuzz,"
+2 Special Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",35 (lower than normal) (lower than normal),179,Slow
+Heatmor,"
+2 Special Attack ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),169,Medium Fast
+Durant,"
+2 Defense ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),169,Medium Fast
+Deino,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),60,Slow
+Zweilous,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),147,Slow
+Hydreigon,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),270,Slow
+Larvesta,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),72,Slow
+Volcarona,"
+3 Special Attack ","15 (2.0% with PokéBall, full HP) (2.0% with PokéBall, full HP)",70 (normal) (normal),248,Slow
+Cobalion,"
+3 Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),261,Slow
+Terrakion,"
+3 Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),261,Slow
+Virizion,"
+3 Special Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),261,Slow
+Tornadus,"
+3 Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",90 (higher than normal) (higher than normal),261,Slow
+Thundurus,"
+3 Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",90 (higher than normal) (higher than normal),261,Slow
+Reshiram,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),306,Slow
+Zekrom,"
+3 Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),306,Slow
+Landorus,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",90 (higher than normal) (higher than normal),270,Slow
+Kyurem,"
+1 HP, 1 Attack, 1 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),297,Slow
+Keldeo,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",35 (lower than normal) (lower than normal),261,Slow
+Meloetta,"
+1 Special Attack, 1 Special Defense, 1 Speed ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",100 (higher than normal) (higher than normal),270,Slow
+Genesect,"
+1 Attack, 1 Special Attack, 1 Speed ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),270,Slow
+Chespin,"
+1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),63,Medium Slow
+Quilladin,"
+2 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Chesnaught,"
+3 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),239,Medium Slow
+Fennekin,"
+1 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),61,Medium Slow
+Braixen,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),143,Medium Slow
+Delphox,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),240,Medium Slow
+Froakie,"
+1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),63,Medium Slow
+Frogadier,"
+2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),142,Medium Slow
+Greninja,"
+3 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),239,Medium Slow
+Bunnelby,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),47,Medium Fast
+Diggersby,"
+2 HP ","127 (16.6% with PokéBall, full HP) (16.6% with PokéBall, full HP)",70 (normal) (normal),148,Medium Fast
+Fletchling,"
+1 Speed ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),56,Medium Slow
+Fletchinder,"
+2 Speed ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),134,Medium Slow
+Talonflame,"
+3 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),175,Medium Slow
+Scatterbug,"
+1 Defense ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),40,Medium Fast
+Spewpa,"
+2 Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),75,Medium Fast
+Vivillon,"
+1 HP, 1 Special Attack, 1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),185,Medium Fast
+Litleo,"
+1 Special Attack ","220 (28.8% with PokéBall, full HP) (28.8% with PokéBall, full HP)",70 (normal) (normal),74,Medium Slow
+Pyroar,"
+2 Special Attack ","65 (8.5% with PokéBall, full HP) (8.5% with PokéBall, full HP)",70 (normal) (normal),177,Medium Slow
+Flabébé,"
+1 Special Defense ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Floette,"
+2 Special Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),130,Medium Fast
+Florges,"
+3 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),248,Medium Fast
+Skiddo,"
+1 HP ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),70,Medium Fast
+Gogoat,"
+2 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),186,Medium Fast
+Pancham,"
+1 Attack ","220 (28.8% with PokéBall, full HP) (28.8% with PokéBall, full HP)",70 (normal) (normal),70,Medium Fast
+Pangoro,"
+2 Attack ","65 (8.5% with PokéBall, full HP) (8.5% with PokéBall, full HP)",70 (normal) (normal),173,Medium Fast
+Furfrou,"
+1 Speed ","160 (20.9% with PokéBall, full HP) (20.9% with PokéBall, full HP)",70 (normal) (normal),165,Medium Fast
+Espurr,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),71,Medium Fast
+Meowstic,"
+2 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),163,Medium Fast
+Honedge,"
+1 Defense ","180 (23.5% with PokéBall, full HP) (23.5% with PokéBall, full HP)",70 (normal) (normal),65,Medium Fast
+Doublade,"
+2 Defense ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),157,Medium Fast
+Aegislash,"
+2 Attack, 1 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),234,Medium Fast
+Spritzee,"
+1 HP ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),68,Medium Fast
+Aromatisse,"
+2 HP ","140 (18.3% with PokéBall, full HP) (18.3% with PokéBall, full HP)",70 (normal) (normal),162,Medium Fast
+Swirlix,"
+1 Defense ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),68,Medium Fast
+Slurpuff,"
+2 Defense ","140 (18.3% with PokéBall, full HP) (18.3% with PokéBall, full HP)",70 (normal) (normal),168,Medium Fast
+Inkay,"
+1 Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),58,Medium Fast
+Malamar,"
+2 Attack ","80 (10.5% with PokéBall, full HP) (10.5% with PokéBall, full HP)",70 (normal) (normal),169,Medium Fast
+Binacle,"
+1 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Barbaracle,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),175,Medium Fast
+Skrelp,"
+1 Special Defense ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",70 (normal) (normal),64,Medium Fast
+Dragalge,"
+2 Special Defense ","55 (7.2% with PokéBall, full HP) (7.2% with PokéBall, full HP)",70 (normal) (normal),173,Medium Fast
+Clauncher,"
+1 Special Attack ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",70 (normal) (normal),66,Slow
+Clawitzer,"
+2 Special Attack ","55 (7.2% with PokéBall, full HP) (7.2% with PokéBall, full HP)",70 (normal) (normal),100,Slow
+Helioptile,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),58,Medium Fast
+Heliolisk,"
+1 Special Attack, 1 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),168,Medium Fast
+Tyrunt,"
+1 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),72,Medium Fast
+Tyrantrum,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),182,Medium Fast
+Amaura,"
+1 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),72,Medium Fast
+Aurorus,"
+2 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),104,Medium Fast
+Sylveon,"
+2 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),184,Medium Fast
+Hawlucha,"
+2 Attack ","100 (13.1% with PokéBall, full HP) (13.1% with PokéBall, full HP)",70 (normal) (normal),175,Medium Fast
+Dedenne,"
+2 Speed ","180 (23.5% with PokéBall, full HP) (23.5% with PokéBall, full HP)",70 (normal) (normal),151,Medium Fast
+Carbink,"
+1 Defense, 1 Special Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),100,Slow
+Goomy,"
+1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),60,Slow
+Sliggoo,"
+2 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),158,Slow
+Goodra,"
+3 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",35 (lower than normal) (lower than normal),270,Slow
+Klefki,"
+1 Defense ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),165,Fast
+Phantump,"
+1 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),62,Medium Fast
+Trevenant,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),166,Medium Fast
+Pumpkaboo,"
+1 Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),67,Medium Fast
+Gourgeist,"
+2 Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),173,Medium Fast
+Bergmite,"
+1 Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Avalugg,"
+2 Defense ","55 (7.2% with PokéBall, full HP) (7.2% with PokéBall, full HP)",70 (normal) (normal),180,Medium Fast
+Noibat,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),49,Medium Fast
+Noivern,"
+2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),187,Medium Fast
+Xerneas,"
+3 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),306,Slow
+Yveltal,"
+3 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),306,Slow
+Zygarde,"
+3 HP ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),270,Slow
+Diancie,"
+1 Defense, 2 Special Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",70 (normal) (normal),270,Slow
+Hoopa,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",100 (higher than normal) (higher than normal),270,Slow
+Volcanion,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",100 (higher than normal) (higher than normal),270,Slow
+Rowlet,"
+1 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),64,Medium Slow
+Dartrix,"
+2 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),147,Medium Slow
+Decidueye,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),239,Medium Slow
+Litten,"
+1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),64,Medium Slow
+Torracat,"
+2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),147,Medium Slow
+Incineroar,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),239,Medium Slow
+Popplio,"
+1 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),64,Medium Slow
+Brionne,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),147,Medium Slow
+Primarina,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),239,Medium Slow
+Pikipek,"
+1 Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),53,Medium Fast
+Trumbeak,"
+2 Attack ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),124,Medium Fast
+Toucannon,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),218,Medium Fast
+Yungoos,"
+1 Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),51,Medium Fast
+Gumshoos,"
+2 Attack ","127 (16.6% with PokéBall, full HP) (16.6% with PokéBall, full HP)",70 (normal) (normal),146,Medium Fast
+Grubbin,"
+1 Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",70 (normal) (normal),60,Medium Fast
+Charjabug,"
+2 Defense ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),140,Medium Fast
+Vikavolt,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),225,Medium Fast
+Crabrawler,"
+1 Attack ","225 (29.4% with PokéBall, full HP) (29.4% with PokéBall, full HP)",70 (normal) (normal),68,Medium Fast
+Crabominable,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),167,Medium Fast
+Oricorio,"
+2 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),167,Medium Fast
+Cutiefly,"
+1 Speed ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Ribombee,"
+2 Speed ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),162,Medium Fast
+Rockruff,"
+1 Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),56,Medium Fast
+Lycanroc,"
+2 Attack ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),170,Medium Fast
+Wishiwashi,"
+1 HP ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),61,Fast
+Mareanie,"
+1 Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),61,Medium Fast
+Toxapex,"
+2 Defense ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),173,Medium Fast
+Mudbray,"
+1 Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),77,Medium Fast
+Mudsdale,"
+2 Attack ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),175,Medium Fast
+Dewpider,"
+1 Special Defense ","200 (26.1% with PokéBall, full HP) (26.1% with PokéBall, full HP)",70 (normal) (normal),54,Medium Fast
+Araquanid,"
+2 Special Defense ","100 (13.1% with PokéBall, full HP) (13.1% with PokéBall, full HP)",70 (normal) (normal),159,Medium Fast
+Fomantis,"
+1 Attack ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),50,Medium Fast
+Lurantis,"
+2 Attack ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),168,Medium Fast
+Morelull,"
+1 Special Defense ","190 (24.8% with PokéBall, full HP) (24.8% with PokéBall, full HP)",70 (normal) (normal),57,Medium Fast
+Shiinotic,"
+2 Special Defense ","75 (9.8% with PokéBall, full HP) (9.8% with PokéBall, full HP)",70 (normal) (normal),142,Medium Fast
+Salandit,"
+1 Speed ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),64,Medium Fast
+Salazzle,"
+2 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),168,Medium Fast
+Stufful,"
+1 Attack ","140 (18.3% with PokéBall, full HP) (18.3% with PokéBall, full HP)",70 (normal) (normal),68,Medium Fast
+Bewear,"
+2 Attack ","70 (9.1% with PokéBall, full HP) (9.1% with PokéBall, full HP)",70 (normal) (normal),175,Medium Fast
+Bounsweet,"
+1 HP ","235 (30.7% with PokéBall, full HP) (30.7% with PokéBall, full HP)",70 (normal) (normal),42,Medium Slow
+Steenee,"
+2 Speed ","120 (15.7% with PokéBall, full HP) (15.7% with PokéBall, full HP)",70 (normal) (normal),102,Medium Slow
+Tsareena,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),230,Medium Slow
+Comfey,"
+2 Special Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),170,Fast
+Oranguru,"
+2 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),172,Slow
+Passimian,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),172,Slow
+Wimpod,"
+1 Speed ","90 (11.8% with PokéBall, full HP) (11.8% with PokéBall, full HP)",70 (normal) (normal),46,Medium Fast
+Golisopod,"
+2 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),186,Medium Fast
+Sandygast,"
+1 Defense ","140 (18.3% with PokéBall, full HP) (18.3% with PokéBall, full HP)",70 (normal) (normal),64,Medium Fast
+Palossand,"
+2 Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),168,Medium Fast
+Pyukumuku,"
+2 Special Defense ","60 (7.8% with PokéBall, full HP) (7.8% with PokéBall, full HP)",70 (normal) (normal),144,Fast
+Type: Null,"
+2 HP ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),107,Slow
+Silvally,"
+3 HP ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),257,Slow
+Minior,"
+1 Defense, 1 Special Defense ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",70 (normal) (normal),154,Medium Slow
+Komala,"
+2 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),168,Slow
+Turtonator,"
+2 Defense ","70 (9.1% with PokéBall, full HP) (9.1% with PokéBall, full HP)",70 (normal) (normal),170,Medium Fast
+Togedemaru,"
+2 Attack ","180 (23.5% with PokéBall, full HP) (23.5% with PokéBall, full HP)",70 (normal) (normal),152,Medium Fast
+Mimikyu,"
+2 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),167,Medium Fast
+Bruxish,"
+2 Attack ","80 (10.5% with PokéBall, full HP) (10.5% with PokéBall, full HP)",70 (normal) (normal),166,Medium Fast
+Drampa,"
+2 Special Attack ","70 (9.1% with PokéBall, full HP) (9.1% with PokéBall, full HP)",70 (normal) (normal),170,Medium Fast
+Dhelmise,"
+2 Attack ","25 (3.3% with PokéBall, full HP) (3.3% with PokéBall, full HP)",70 (normal) (normal),181,Medium Fast
+Jangmo-o,"
+1 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),60,Slow
+Hakamo-o,"
+2 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),147,Slow
+Kommo-o,"
+3 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",70 (normal) (normal),270,Slow
+Tapu Koko,"
+3 Speed ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",70 (normal) (normal),257,Slow
+Tapu Lele,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",70 (normal) (normal),257,Slow
+Tapu Bulu,"
+3 Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",70 (normal) (normal),257,Slow
+Tapu Fini,"
+3 Special Defense ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",70 (normal) (normal),257,Slow
+Cosmog,"
+1 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),40,Slow
+Cosmoem,"
+1 Defense, 1 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),140,Slow
+Solgaleo,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),306,Slow
+Lunala,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),306,Slow
+Nihilego,"
+3 Special Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),257,Slow
+Buzzwole,"
+1 Attack, 2 Defense ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),257,Slow
+Pheromosa,"
+3 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),257,Slow
+Xurkitree,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),257,Slow
+Celesteela,"
+1 Attack, 1 Defense, 1 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),257,Slow
+Kartana,"
+3 Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),257,Slow
+Guzzlord,"
+3 HP ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),257,Slow
+Necrozma,"
+1 Attack, 2 Special Attack ","255 (33.3% with PokéBall, full HP) (33.3% with PokéBall, full HP)",0 (lower than normal) (lower than normal),270,Slow
+Magearna,"
+3 Special Attack ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),270,Slow
+Marshadow,"
+2 Attack, 1 Speed ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),270,Slow
+Poipole,"
+1 Speed ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),189,Slow
+Naganadel,"
+3 Special Attack ","45 (5.9% with PokéBall, full HP) (5.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),243,Slow
+Stakataka,"
+3 Defense ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),257,Slow
+Blacephalon,"
+3 Special Attack ","30 (3.9% with PokéBall, full HP) (3.9% with PokéBall, full HP)",0 (lower than normal) (lower than normal),257,Slow
+Zeraora,"
+3 Speed ","3 (0.4% with PokéBall, full HP) (0.4% with PokéBall, full HP)",0 (lower than normal) (lower than normal),270,Slow
+Meltan,"
+1 Attack ",,,—,Slow
+Melmetal,"
+3 Attack ",,,—,Slow
+Grookey,"
+1 Attack ",,,—,Medium Slow
+Thwackey,"
+2 Attack ",,,—,Medium Slow
+Rillaboom,"
+3 Attack ",,,—,Medium Slow
+Scorbunny,"
+1 Speed ",,,—,Medium Slow
+Raboot,"
+2 Speed ",,,—,Medium Slow
+Cinderace,"
+3 Speed ",,,—,Medium Slow
+Sobble,"
+1 Special Defense, 1 Speed ",,,—,Medium Slow
+Drizzile,"
+2 Special Attack ",,,—,Medium Slow
+Inteleon,"
+3 Speed ",,,—,Medium Slow
+Skwovet,"
+1 HP ",,,—,Medium Fast
+Greedent,"
+2 HP ",,,—,Medium Fast
+Rookidee,"
+1 Speed ",,,—,Medium Slow
+Corvisquire,"
+2 Speed ",,,—,Medium Slow
+Corviknight,"
+3 Defense ",,,—,Medium Slow
+Blipbug,"
+1 Special Defense ",,,—,Medium Fast
+Dottler,"
+2 Special Defense ",,,—,Medium Fast
+Orbeetle,"
+3 Special Defense ",,,—,Medium Fast
+Nickit,"
+1 Special Defense ",,,—,Fast
+Thievul,"
+2 Special Defense ",,,—,Fast
+Gossifleur,"
+1 Special Defense ",,,—,Medium Fast
+Eldegoss,"
+2 Special Defense ",,,—,Medium Fast
+Wooloo,"
+1 Defense ",,,—,Medium Fast
+Dubwool,"
+2 Defense ",,,—,Medium Fast
+Chewtle,"
+1 Attack ",,,—,Medium Fast
+Drednaw,"
+2 Attack ",,,—,Medium Fast
+Yamper,"
+1 HP ",,,—,Fast
+Boltund,"
+2 Speed ",,,—,Fast
+Rolycoly,"
+1 Defense ",,,—,Medium Slow
+Carkol,"
+2 Defense ",,,—,Medium Slow
+Coalossal,"
+3 Defense ",,,—,Medium Slow
+Applin,"
+1 Defense ",,,—,Erratic
+Flapple,"
+2 Attack ",,,—,Erratic
+Appletun,"
+2 HP ",,,—,Erratic
+Silicobra,"
+1 Defense ",,,—,Medium Fast
+Sandaconda,"
+2 Defense ",,,—,Medium Fast
+Cramorant,"
+2 Special Defense ",,,—,Medium Fast
+Arrokuda,"
+1 Speed ",,,—,Slow
+Barraskewda,"
+2 Speed ",,,—,Slow
+Toxel,"
+1 Special Attack ",,,—,Medium Slow
+Toxtricity,"
+2 Special Attack ",,,—,Medium Slow
+Sizzlipede,"
+1 Attack ",,,—,Medium Fast
+Centiskorch,"
+2 Attack ",,,—,Medium Fast
+Clobbopus,"
+1 Attack ",,,—,Medium Slow
+Grapploct,"
+2 Attack ",,,—,Medium Slow
+Sinistea,"
+1 Special Attack ",,,—,Medium Fast
+Polteageist,"
+2 Special Attack ",,,—,Medium Fast
+Hatenna,"
+1 Special Attack ",,,—,Slow
+Hattrem,"
+2 Special Attack ",,,—,Slow
+Hatterene,"
+3 Special Attack ",,,—,Slow
+Impidimp,"
+1 Special Attack ",,,—,Medium Fast
+Morgrem,"
+2 Special Attack ",,,—,Medium Fast
+Grimmsnarl,"
+3 Attack ",,,—,Medium Fast
+Obstagoon,"
+3 Defense ",,,—,Medium Fast
+Perrserker,"
+2 Attack ",,,—,Medium Fast
+Cursola,"
+2 Special Attack ",,,—,Fast
+Sirfetch'd,"
+2 Attack ",,,—,Medium Fast
+Mr. Rime,"
+3 Special Attack ",,,—,Medium Fast
+Runerigus,"
+2 Defense ",,,—,Medium Fast
+Milcery,"
+1 Special Defense ",,,—,Medium Fast
+Alcremie,"
+2 Special Defense ",,,—,Medium Fast
+Falinks,"
+2 Attack, 1 Special Defense ",,,—,Medium Fast
+Pincurchin,"
+2 Attack ",,,—,Medium Fast
+Snom,"
+1 Special Attack ",,,—,Medium Fast
+Frosmoth,"
+2 Special Attack ",,,—,Medium Fast
+Stonjourner,"
+2 Defense ",,,—,Slow
+Eiscue,"
+2 Defense ",,,—,Slow
+Indeedee,"
+2 Special Attack ",,,—,Fast
+Morpeko,"
+2 Speed ",,,—,Medium Fast
+Cufant,"
+1 Attack ",,,—,Medium Fast
+Copperajah,"
+2 Attack ",,,—,Medium Fast
+Dracozolt,"
+2 Attack ",,,—,Slow
+Arctozolt,"
+2 Attack ",,,—,Slow
+Dracovish,"
+2 Defense ",,,—,Slow
+Arctovish,"
+2 Defense ",,,—,Slow
+Duraludon,"
+2 Special Attack ",,,—,Medium Fast
+Dreepy,"
+1 Speed ",,,—,Slow
+Drakloak,"
+2 Speed ",,,—,Slow
+Dragapult,"
+3 Speed ",,,—,Slow
+Zacian,"
+3 Speed ",,,—,Slow
+Zamazenta,"
+3 Speed ",,,—,Slow
+Eternatus,"
+3 HP ",,,—,Slow

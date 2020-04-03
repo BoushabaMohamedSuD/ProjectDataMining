@@ -140,7 +140,13 @@ for span in spans:
             for tr in trs:
                 if(counter==0):
                     #print("National №")
-                    info= tr.find('td').find('strong').text
+                    info=""
+                    try:    
+                        info= tr.find('td').find('strong').text
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1,j,counter])
+                    
                     item[1]=info
                    
                
@@ -148,41 +154,82 @@ for span in spans:
                 elif(counter==1):
                     #print("Type")
                     info=""
-                    elements=tr.findAll('a')
-                    for element in elements:
-                        info=info+" "+element.text
+                    try:    
+                        elements=tr.findAll('a')
+                        for element in elements:
+                            info=info+" "+element.text
+                            
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1,j,counter])
+
+                    
+                    
                     item[2]=info
                     
                 elif(counter==2):
                     #print("Species")
-                    info=tr.find('td').text
+                    info=""
+                    try:    
+                        info=tr.find('td').text
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1,j,counter])
+
+                    
                     item[3]=info
                     
                 elif(counter==3): 
                    # print("Height")
-                    info=tr.find('td').text
+                    info=""
+                    try:    
+                        info=tr.find('td').text
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1,j,counter])
+
+                    
                     item[4]=info
                     
                 elif(counter==4):
                     #print("Weight")
-                    info=tr.find('td').text
+                    info=""
+                    try:    
+                        info=tr.find('td').text
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1,j,counter])
+
+                    
                     item[5]=info
                     
                 elif(counter==5):
                     #print("Abilities")
                     info=""
-                    elements=tr.findAll('a')
-                    for element in elements:
-                        info=info+" "+element.text
+                    try:    
+                        elements=tr.findAll('a')
+                        for element in elements:
+                            info=info+" "+element.text
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1,j,counter])
+
+                    
                    
                     item[6]=info
                     
                 elif(counter==6): 
                     #print("Local №№")
                     info=""
-                    elements=tr.findAll('small')
-                    for elemnent in elements:
-                        info=info+" "+element.text
+                    try:    
+                       elements=tr.findAll('small')
+                       for elemnent in elements:
+                           info=info+" "+element.text
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1,j,counter])
+
+                    
                     
                     item[7]=info
                     
@@ -208,7 +255,14 @@ for span in spans:
                 if(counter==0):
                    #print("EV yield")
                     #print('what!!!')
-                    info=tr.find('td').text
+                    info=""
+                    try:    
+                        info=tr.find('td').text
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1,j,counter])
+
+                    
                     #print("ok")
                     #print(info)
                     item[1]=info
@@ -220,23 +274,45 @@ for span in spans:
                         info=tr.find('td').text+" "+tr.find('small').text
                     except :
                         print("opps!!!!!!!!!!!!!!!")
-                        dataOpps.append([index+1])
+                        dataOpps.append([index+1,j,counter])
                     
                     item[2]=info
                     
                 elif(counter==2):
                    # print("Base Friendship")
-                    info=tr.find('td').text+" "+tr.find('small').text
+                    info=""
+
+                    try:    
+                        info=tr.find('td').text+" "+tr.find('small').text
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1,j,counter])
+
+                    
                     item[3]=info
                     
                 elif(counter==3): 
                     #print("Base Exp.")
-                    info=tr.find('td').text
+                    info=""
+                    try:    
+                        info=tr.find('td').text
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1,j,counter])
+
+                    
                     item[4]=info
                     
                 elif(counter==4):
                     #print("Growth Rate")
-                    info=tr.find('td').text
+                    info=""
+                    try:    
+                        info=tr.find('td').text
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1,j,counter])
+
+                    
                     item[5]=info
                     
                 
@@ -260,9 +336,16 @@ for span in spans:
                 if(counter==0):
                     #print("Egg Groups")
                     info=""
-                    elements=tr.findAll('a')
-                    for element in elements:
-                        info=info+" "+element.text
+
+                    try:    
+                       elements=tr.findAll('a')
+                       for element in elements:
+                           info=info+" "+element.text
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1,j,counter])
+
+                    
                         
                     item[1]=info
                     
@@ -270,15 +353,30 @@ for span in spans:
                 elif(counter==1):
                     #print("Gender")
                     info=""
-                    elements=tr.findAll('span')
-                    for element in elements:
-                        info=info+" "+element.text
+
+                    try:    
+                        elements=tr.findAll('span')
+                        for element in elements:
+                            info=info+" "+element.text
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1,j,counter])
+
+                   
                         
                     item[2]=info
                     
                 elif(counter==2):
                     #print("Egg cycles")
-                    info=tr.find('td').text+" "+tr.find('small').text
+                    info=""
+
+                    try:    
+                         info=tr.find('td').text+" "+tr.find('small').text
+                    except :
+                        print("opps!!!!!!!!!!!!!!!")
+                        dataOpps.append([index+1,j,counter])
+
+                   
                     item[3]=info
                     
                     
